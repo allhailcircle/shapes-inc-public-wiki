@@ -2,8 +2,8 @@
 
 * [Shapes, Inc Manual](README.md)
   * [What are Shapes?](welcome-to-shapes.inc/what-are-shapes.md)
-* [Quick Shape Creation](quick-shape-creation/README.md)
-  * [Page](quick-shape-creation/page.md)
+  * [Quick Shape Creation](shapes-inc-manual/quick-shape-creation/README.md)
+    * [Page](shapes-inc-manual/quick-shape-creation/page.md)
 
 ## Shape Essentials
 
