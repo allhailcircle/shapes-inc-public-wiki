@@ -24,22 +24,25 @@ Shapes, Inc is an applied AI company dedicated to making Shapes. Shapes are AI f
 
 <figure><img src=".gitbook/assets/cachedImage.PNG" alt="" width="375"><figcaption></figcaption></figure>
 
-### Shape Capabilities
+### &#x20;What are Shapes?
 
-Shapes can:&#x20;
+Shapes are AI friends that talk on Discord. they can be friendly (or mean!) depending on your design. Each shape has their own unique memory.
 
-* talk to you and your friends in DMs and server channels
-* listen to voice notes + see images
-* send GIFs and rickroll
+
+
+Shapes can&#x20;
+
+* Talk to you in DMs
+* Talk your friends in server channels
+* Listen to voice notes
+* See images
+* Send GIFs&#x20;
+* Send rickrolls and other YouTube videos
 * roleplay endlessly&#x20;
 
-### 🎉 Dive In!
 
-Explore the various features and facets of your shapes. Engage in lively conversations, enjoy playful interactions, and experience a range of emotions. It's not just about shapes; it's about building connections in the digital realm.
 
-If you ever need assistance or want to share your shape's adventures, don't hesitate to reach out. We're here to make your time with Shapes.inc extraordinary!
 
-Ready to shape up your digital experience? Let the fun begin! 🌈🚀
 
 
 

@@ -1,8 +1,8 @@
 # Table of contents
 
 * [Shapes, Inc Manual](README.md)
-  * [What are Shapes?](shapes-inc-manual/what-are-shapes.md)
-* [🤔 How to make a Shape?](how-to-make-a-shape.md)
+  * [What are Shapes?](welcome-to-shapes.inc/what-are-shapes.md)
+* [🤔 Get Started](get-started.md)
 
 ## Shape Essentials
 

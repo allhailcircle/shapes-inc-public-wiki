@@ -1,8 +1,8 @@
-# 🤔 How to make a shape?
+# 🤔 Get Started
 
 ### Creating a Shape
 
-To create your custom AI friend, known as a Shape, follow the instructions below:
+To create your very own Shape, follow the instructions below:
 
 1. Head over to [shapes.inc](https://shapes.inc/).
 2. Click on the **Create a Shape** button.
