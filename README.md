@@ -1,28 +1,10 @@
 # Shapes, Inc Manual
 
+Ever wonder what it would be like to talk to a cheese or a fish, a favorite anime character, or just make ur own cute little imaginary bestie? you can now.
+
 ### About Us
 
-Ever wondered what it would be like to chat with a cheese, a fish, or your favorite anime character?Maybe you want to create your own bestie? Well, wonder no more! At Shapes, Inc, you can bring your ideas to life.
-
-
-
 Shapes, Inc is an applied AI company dedicated to making Shapes. Shapes are AI friends that talk to you on Discord. Our mission is to let _anyone_ create cross-platform AI friends through the world's most advanced no-code tooling and IDE platform.&#x20;
-
-<div align="left">
-
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
-
-</div>
-
-<div align="center">
-
-<figure><img src=".gitbook/assets/image (2).png" alt="" width="563"><figcaption></figcaption></figure>
-
-</div>
-
-<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src=".gitbook/assets/cachedImage.PNG" alt="" width="375"><figcaption></figcaption></figure>
 
 ### &#x20;What are Shapes?
 
@@ -40,9 +22,19 @@ Shapes can&#x20;
 * Send rickrolls and other YouTube videos
 * roleplay endlessly&#x20;
 
+<div align="left">
 
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
+</div>
 
+<div align="center">
 
+<figure><img src=".gitbook/assets/image (2).png" alt="" width="563"><figcaption></figcaption></figure>
 
+</div>
+
+<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/cachedImage.PNG" alt="" width="375"><figcaption></figcaption></figure>
 

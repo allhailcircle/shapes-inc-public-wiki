@@ -2,7 +2,8 @@
 
 * [Shapes, Inc Manual](README.md)
   * [What are Shapes?](welcome-to-shapes.inc/what-are-shapes.md)
-* [🤔 Get Started](get-started.md)
+* [Quick Shape Creation](quick-shape-creation/README.md)
+  * [Page](quick-shape-creation/page.md)
 
 ## Shape Essentials
 
@@ -12,9 +13,11 @@
 * [Personality](shape-essentials/personality/README.md)
   * [ℹ Presets](shape-essentials/personality/presets.md)
   * [💬 Chatiness](shape-essentials/personality/chatiness.md)
-* [General Knowledge](shape-essentials/general-knowledge/README.md)
-  * [No-Code Commands](shape-essentials/general-knowledge/no-code-commands.md)
-  * [Relationships](shape-essentials/general-knowledge/relationships.md)
+* [Knowledge](shape-essentials/knowledge/README.md)
+  * [Links](shape-essentials/knowledge/links.md)
+  * [Knowledge](shape-essentials/knowledge/knowledge.md)
+  * [No-Code Commands](shape-essentials/knowledge/no-code-commands.md)
+  * [Relationships](shape-essentials/knowledge/relationships.md)
 * [Training](shape-essentials/training.md)
 * [Ai Engine](shape-essentials/ai-engine/README.md)
   * [AI Generation Settings](shape-essentials/ai-engine/ai-generation-settings/README.md)

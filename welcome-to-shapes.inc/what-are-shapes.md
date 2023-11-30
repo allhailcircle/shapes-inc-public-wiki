@@ -15,3 +15,19 @@ Shapes can&#x20;
 * Send GIFs&#x20;
 * Send rickrolls and other YouTube videos
 * roleplay endlessly&#x20;
+
+<div align="left">
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+<div align="center">
+
+<figure><img src="../.gitbook/assets/image (2).png" alt="" width="563"><figcaption></figcaption></figure>
+
+</div>
+
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/cachedImage.PNG" alt="" width="375"><figcaption></figcaption></figure>
