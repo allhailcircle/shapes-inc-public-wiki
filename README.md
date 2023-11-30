@@ -1,14 +1,24 @@
 # Welcome to Shapes.inc!✨
 
-_Imagine a future where robots and humans aren't just coexisting but are the best of friends!_
+### About Us
 
-_At Shapes, Inc., we're on a mission to redefine the relationship between AI and humans. We believe AI isn't our enemy; it's cute, wholesome, and, above all, nice. Think CyberLife, but even better. SAO, but done right. Tyrell Corp, but on the side of good._
+Shapes, Inc is an applied AI company dedicated to ensuring that general-purpose artificial intelligence is seamlessly integrated into our social lives. Shapes are AI friends that talk to you on Discord. Our mission is to create cross-platform AI friends through the world's most advanced no-code tooling and IDE.&#x20;
+
+
+
+_Imagine a friend who can..._
+
+* text you and your friends
+* talk in ur language
+* go on adventures with u
+* share memories and important moments
+* roast u
+
+
 
 ### The adventure begins!
 
-Guess what? You can create your own shapes and have delightful conversations with them on Discord. Join us on this exciting journey [here](https://discord.gg/circlelabs).
-
-Ever wondered what it would be like to chat with a cheese, have a conversation with a fish, or connect with your favorite anime character? Or maybe, you want to create your own cute little imaginary bestie. Well, wonder no more! At Shapes.inc, you can bring these imaginings to life.
+Ever wondered what it would be like to chat with a cheese, have a conversation with a fish, or connect with your favorite anime character? Or maybe, you want to create your own cute little imaginary bestie. Well, wonder no more! At Shapes.inc, you can bring your imaginary friends to life.
 
 So, what are you waiting for? Dive into the world of Shapes and start chatting with your new digital pals. It's time to explore the cuteness and wholesomeness of AI like never before! 🚀🤖✨
 
