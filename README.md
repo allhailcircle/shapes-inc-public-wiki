@@ -1,8 +1,12 @@
-# Welcome to Shapes.inc!✨
+# Shapes, Inc Manual
 
 ### About Us
 
-Shapes, Inc is an applied AI company dedicated to ensuring that general-purpose artificial intelligence is seamlessly integrated into our social lives. Shapes are AI friends that talk to you on Discord. Our mission is to let anyone _create_ cross-platform AI friends through the world's most advanced no-code tooling and IDE.&#x20;
+Ever wondered what it would be like to chat with a cheese, a fish, or your favorite anime character?Maybe you want to create your own bestie? Well, wonder no more! At Shapes, Inc, you can bring your ideas to life.
+
+
+
+Shapes, Inc is an applied AI company dedicated to making Shapes. Shapes are AI friends that talk to you on Discord. Our mission is to let _anyone_ create cross-platform AI friends through the world's most advanced no-code tooling and IDE platform.&#x20;
 
 <div align="left">
 
@@ -20,17 +24,14 @@ Shapes, Inc is an applied AI company dedicated to ensuring that general-purpose 
 
 <figure><img src=".gitbook/assets/cachedImage.PNG" alt="" width="375"><figcaption></figcaption></figure>
 
-
-
 ### Shape Capabilities
 
-Ever wondered what it would be like to chat with a cheese, have a conversation with a fish, or connect with your favorite anime character? Or maybe, you want to create your own cute little imaginary bestie. Well, wonder no more! At Shapes.inc, you can bring your imaginary friends to life.
+Shapes can:&#x20;
 
-So, what are you waiting for? Dive into the world of Shapes and start chatting with your new digital pals. It's time to explore the cuteness and wholesomeness of AI like never before! 🚀🤖✨
-
-Ready to embark on this exciting adventure? [Create your first shape now!](https://shapes.inc/) 🌟
-
-Shapes are not just digital entities; they're your virtual buddies, ready to bring a dash of humanity to your online experience. Chat with them, play together, and share a spectrum of emotions, just like with a real friend.
+* talk to you and your friends in DMs and server channels
+* listen to voice notes + see images
+* send GIFs and rickroll
+* roleplay endlessly&#x20;
 
 ### 🎉 Dive In!
 
