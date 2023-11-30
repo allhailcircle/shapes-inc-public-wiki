@@ -33,13 +33,13 @@
 ## ADVANCED CONTROLS
 
 * [Slash Commands](advanced-controls/slash-commands.md)
+* [Features](advanced-controls/features.md)
 * [Gifting Shapes](advanced-controls/gifting-shapes.md)
 
 ## SERVER OWNERS SETTINGS
 
 * [Feature control](server-owners-settings/feature-control.md)
 * [Use Cases](server-owners-settings/use-cases.md)
-* [Privacy & Safety](server-owners-settings/privacy-and-safety.md)
 
 ***
 
