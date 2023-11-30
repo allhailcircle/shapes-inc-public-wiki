@@ -51,4 +51,4 @@
 * [Dashboard](https://shapes.inc/home)
 * [Term of Service](https://circlelabs.xyz/tos.html)
 * [Privacy Policy](https://circlelabs.xyz/privacy.html)
-* [Discord](https://discord.gg/circlelabs)
+* [Discord Server](https://discord.gg/circlelabs)
