@@ -2,9 +2,7 @@
 
 ### About Us
 
-Shapes, Inc is an applied AI company dedicated to ensuring that general-purpose artificial intelligence is seamlessly integrated into our social lives. Shapes are AI friends that talk to you on Discord. Our mission is to create cross-platform AI friends through the world's most advanced no-code tooling and IDE.&#x20;
-
-
+Shapes, Inc is an applied AI company dedicated to ensuring that general-purpose artificial intelligence is seamlessly integrated into our social lives. Shapes are AI friends that talk to you on Discord. Our mission is to let anyone _create_ cross-platform AI friends through the world's most advanced no-code tooling and IDE.&#x20;
 
 <div align="left">
 
