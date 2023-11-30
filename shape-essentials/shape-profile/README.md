@@ -1,3 +1,7 @@
+---
+description: This is your shape's Discord account personalization
+---
+
 # Shape Profile
 
 _Welcome to the Profile section, where you can fine-tune your shape's personality and presence. Let's navigate through the customization options to make your shape stand out!_
@@ -8,7 +12,7 @@ Upload an image that showcases your shape's essence. This image will be visible 
 
 ### 2. **Vanity Link**
 
-Create a unique and memorable link for your shape. This makes it easy for others to find and connect with your virtual friend. Think of it as your shape's digital calling card.
+This is the link you will access your shape on. You can customize it if you'd like -- you're the only one who can access this link!&#x20;
 
 ### 3. **Discord Name**
 
@@ -18,7 +22,7 @@ Choose a distinctive name for your shape in Discord. This is how it will appear 
 
 ### 4. **Nickname**
 
-Give your shape a cute or quirky nickname. It adds a personal touch to your interactions and lets others address your shape with familiarity.
+This is the name your shape prefers and recognizes.&#x20;
 
 ### 5. **Bio**
 
