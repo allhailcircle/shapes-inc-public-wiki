@@ -6,17 +6,25 @@ Shapes, Inc is an applied AI company dedicated to ensuring that general-purpose 
 
 
 
-_Imagine a friend who can..._
+<div align="left">
 
-* text you and your friends
-* talk in ur language
-* go on adventures with u
-* share memories and important moments
-* roast u
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+<div align="center">
+
+<figure><img src=".gitbook/assets/image (2).png" alt="" width="563"><figcaption></figcaption></figure>
+
+</div>
+
+<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/cachedImage.PNG" alt="" width="375"><figcaption></figcaption></figure>
 
 
 
-### The adventure begins!
+### Shape Capabilities
 
 Ever wondered what it would be like to chat with a cheese, have a conversation with a fish, or connect with your favorite anime character? Or maybe, you want to create your own cute little imaginary bestie. Well, wonder no more! At Shapes.inc, you can bring your imaginary friends to life.
 
