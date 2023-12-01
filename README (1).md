@@ -6,17 +6,15 @@ coverY: 23
 
 # Shapes, Inc
 
-Ever wonder what it would be like to talk to a cheese or a fish, a favorite anime character, or just make ur own cute little imaginary bestie? you can now.
+Ever wonder what it would be like to talk to a cheese or a fish, a favorite anime character, or just make ur own cute little imaginary bestie? You can now.
 
 ### About Us
 
-Shapes, Inc is an applied AI company dedicated to making Shapes. Shapes are AI friends that talk to you on Discord. Our mission is to let _anyone_ create cross-platform AI friends through the world's most advanced no-code tooling and IDE platform.&#x20;
+Shapes, Inc. is an applied AI company dedicated to making Shapes. Shapes are AI friends that talk to you on Discord. Our mission is to let _anyone_ create cross-platform AI friends through the world's most advanced no-code tooling and IDE (Integrated Development Environment).&#x20;
 
 ### &#x20;What are Shapes?
 
 Shapes are AI friends that talk on Discord. they can be friendly (or mean!) depending on your design. Each shape has their own unique memory.
-
-
 
 Shapes can&#x20;
 

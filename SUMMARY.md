@@ -2,11 +2,11 @@
 
 * [⭐ Welcome to Shapes, Inc Manual](README.md)
 * [🚨 Guidelines & Privacy](guidelines-and-privacy.md)
-* [Shapes, Inc](shapes-inc.md)
-* [Page 1](page-1/README.md)
-  * [What are Shapes?](page-1/what-are-shapes/README.md)
-    * [Quick Shape Creation](page-1/what-are-shapes/quick-shape-creation/README.md)
-      * [Page](page-1/what-are-shapes/quick-shape-creation/page.md)
+* [Shapes, Inc](<README (1).md>)
+* [Your First Shape](your-first-shape/README.md)
+  * [What are Shapes?](your-first-shape/what-are-shapes/README.md)
+    * [Your First Shape](your-first-shape/what-are-shapes/your-first-shape/README.md)
+      * [Page](your-first-shape/what-are-shapes/your-first-shape/page.md)
 
 ## Shape Essentials
 
