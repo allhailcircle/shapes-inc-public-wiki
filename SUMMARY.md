@@ -4,7 +4,7 @@
 * [🚨 Guidelines & Privacy](guidelines-and-privacy.md)
 * [Shapes, Inc](<README (1).md>)
 * [Your First Shape](your-first-shape/README.md)
-  * [Page](your-first-shape/page.md)
+  * [Creating Multiple Shapes](your-first-shape/creating-multiple-shapes.md)
 * [Your First Shape](your-first-shape-1/README.md)
   * [What are Shapes?](your-first-shape-1/what-are-shapes.md)
 
