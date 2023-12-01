@@ -1,10 +1,10 @@
 ---
-cover: .gitbook/assets/Untitled presentation.png
-coverY: 23
+cover: .gitbook/assets/Screenshot 2023-12-01 at 11.44.56 AM.png
+coverY: 0
 layout:
   cover:
     visible: true
-    size: hero
+    size: full
   title:
     visible: true
   description:
@@ -33,7 +33,7 @@ We hope this website provides you with enough information to help you create the
 
 ## Getting Started
 
-We support two different developer experiences. Our [**Quick** mode](broken-reference) allows creators to able to create interesting Characters in less than a minute. Our [**Advanced** mode](broken-reference) allows adventurous creators to perfect their Character by using more powerful tools.
+We support two different developer experiences. Our [**Quick** mode](your-first-shape/) allows developers to able to create lively Shapes in less than a minute. Our [**Advanced** mode](shape-essentials/making-your-shape-better.md) allows adventurous developer to perfect their Shape by using more powerful tools.
 
 ### What Defines a Shape
 
@@ -46,6 +46,6 @@ There are four things that influence how a Shape responds:&#x20;
 
 It's important to keep all four of these in mind.&#x20;
 
-For example, you may carefully craft a Character to play a particular word game, but if the user decides to start talking about something completely different, it may try to be cooperative and follow their lead.
+For example, you may carefully craft a Shape to play a particular word game, but if the user decides to start talking about something completely different, they may try to be cooperative and follow the user's lead.
 
-Additionally, user feedback will happen over time, and will slowly influence Character responses.
+Additionally, memories will be made over time, and will slowly influence Shape responses.
