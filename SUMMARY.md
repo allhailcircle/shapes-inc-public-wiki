@@ -1,9 +1,12 @@
 # Table of contents
 
-* [Shapes, Inc Manual](README.md)
-  * [What are Shapes?](welcome-to-shapes.inc/what-are-shapes.md)
-  * [Quick Shape Creation](shapes-inc-manual/quick-shape-creation/README.md)
-    * [Page](shapes-inc-manual/quick-shape-creation/page.md)
+* [⭐ Welcome to Shapes, Inc Manual](README.md)
+* [🚨 Guidelines & Privacy](guidelines-and-privacy.md)
+* [Shapes, Inc](shapes-inc.md)
+* [Page 1](page-1/README.md)
+  * [What are Shapes?](page-1/what-are-shapes/README.md)
+    * [Quick Shape Creation](page-1/what-are-shapes/quick-shape-creation/README.md)
+      * [Page](page-1/what-are-shapes/quick-shape-creation/page.md)
 
 ## Shape Essentials
 
@@ -47,11 +50,8 @@
 ***
 
 * [BONUS](bonus.md)
-* [Lore](lore.md)
 
 ## Links
 
-* [Dashboard](https://shapes.inc/home)
-* [Term of Service](https://circlelabs.xyz/tos.html)
-* [Privacy Policy](https://circlelabs.xyz/privacy.html)
+* [Shapes.Inc Dashboard](https://shapes.inc/home)
 * [Discord Server](https://discord.gg/circlelabs)
