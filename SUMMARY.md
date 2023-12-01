@@ -4,9 +4,9 @@
 * [🚨 Guidelines & Privacy](guidelines-and-privacy.md)
 * [Shapes, Inc](<README (1).md>)
 * [Your First Shape](your-first-shape/README.md)
-  * [What are Shapes?](your-first-shape/what-are-shapes/README.md)
-    * [Your First Shape](your-first-shape/what-are-shapes/your-first-shape/README.md)
-      * [Page](your-first-shape/what-are-shapes/your-first-shape/page.md)
+  * [Page](your-first-shape/page.md)
+* [Your First Shape](your-first-shape-1/README.md)
+  * [What are Shapes?](your-first-shape-1/what-are-shapes.md)
 
 ## Shape Essentials
 
