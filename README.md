@@ -20,10 +20,10 @@ layout:
 # ⭐ Welcome to Shapes, Inc Manual
 
 {% hint style="info" %}
-Here at the Shapes, Inc documentation you can find all the information you might need while creating your own custom Shape!
+Here you'll be able to access all the information you might need while creating your own custom Shape!
 {% endhint %}
 
-Located on the left, there is a table of contents which you can browse to find guides with the module you need. Select the module you wish to see and click it. This will walk you through step-by-step with exhaustive explanation and screenshots.
+Located on the left, there is a table of contents which you can browse to find guides with the module you need. Select the module you wish to see and click it. This will walk you through step-by-step with and screenshots.
 
 {% hint style="success" %}
 We hope this website provides you with enough information to help you create the best Shape for **your** community!&#x20;
@@ -39,9 +39,9 @@ We support two different developer experiences. Our [**Quick** mode](your-first-
 
 There are four things that influence how a Shape responds:&#x20;
 
-1. The [Character Attributes](broken-reference) (what much of this guide will explain)
-2. The [Character Training](broken-reference) from conversations (e.g. star ratings)
-3. The [Personas](broken-reference) set by a user containing descriptive details and preferences
+1. Your Shape's Personality (what much of this guide will explain)
+2. Your Shape's Knowledge and Training
+3. Your User Profile containing details and preferences about yourself
 4. The context of the current conversation
 
 It's important to keep all four of these in mind.&#x20;
