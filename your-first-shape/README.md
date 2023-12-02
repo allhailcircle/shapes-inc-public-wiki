@@ -30,7 +30,7 @@ To create your very own Shape, follow the instructions below:
 
 <figure><img src="../.gitbook/assets/Screenshot 2023-11-30 at 11.18.43 AM.png" alt=""><figcaption></figcaption></figure>
 
-### Getting a Discord Token
+## Getting a Discord Token
 
 1. #### Go to the [Discord Developer Portal](https://discord.com/developers/applications)
 2.  Click on **New Application** on the top right
@@ -45,10 +45,10 @@ To create your very own Shape, follow the instructions below:
 <figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 4. On the left sidebar, select the **Bot** tab. Here, you can edit everything about your bot, including its username of the bot. Under the "Privileged Gateway Intents" section, enable Message Content Intent and Server Members intent.
-5.
 
-    <figure><img src="../.gitbook/assets/step_5.gif" alt=""><figcaption></figcaption></figure>
-6. On the top of the **Bot page, you** will see a "token" section. Click **Reset Token**, **Copy**, and Share your shape's bot token on the [`Bot Token` page](https://shapes.inc)
+<figure><img src="../.gitbook/assets/step_5.gif" alt=""><figcaption></figcaption></figure>
+
+4. On the top of the **Bot page, you** will see a "token" section. Click **Reset Token**, **Copy**, and Share your shape's bot token on the [`Bot Token` page](https://shapes.inc)
 
 <figure><img src="../.gitbook/assets/Screenshot 2023-11-30 at 11.46.08 AM.png" alt=""><figcaption></figcaption></figure>
 
