@@ -35,14 +35,14 @@ To create your very own Shape, follow the instructions below:
 1. #### Go to the [Discord Developer Portal](https://discord.com/developers/applications)
 2.  Click on **New Application** on the top right
 
-    <figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>Discord Developer Portal</p></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>Discord Developer Portal</p></figcaption></figure>
 
 
 3.  Write your shape's name, agree to the Terms, press the C**reate** button
 
     &#x20;         _Note: you can change the application name at any time!_
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 4. On the left sidebar, select the **Bot** tab. Here, you can edit everything about your bot, including its username of the bot. Under the "Privileged Gateway Intents" section, enable Message Content Intent and Server Members intent.
 

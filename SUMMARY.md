@@ -7,7 +7,9 @@
   * [Creating Multiple Shapes](your-first-shape/page.md)
 * [Inviting Your Shape](inviting-your-shape.md)
 * [Standard Practices](standard-practices/README.md)
-  * [Mobile Application](standard-practices/mobile-application.md)
+  * [Advanced Practices](standard-practices/advanced-practices.md)
+* [Mobile Application](mobile-application.md)
+* [Changelog](changelog.md)
 
 ## Shape Essentials
 

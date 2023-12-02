@@ -35,7 +35,7 @@ We hope this website provides you with enough information to help you create the
 
 We support two different developer experiences. Our [**Quick** mode](your-first-shape/) allows developers to able to create lively Shapes in less than a minute. Our [**Advanced** mode](shape-essentials/making-your-shape-better.md) allows adventurous developer to perfect their Shape by using more powerful tools.
 
-### What Defines a Shape
+## What Defines a Shape
 
 There are four things that influence how a Shape responds:&#x20;
 

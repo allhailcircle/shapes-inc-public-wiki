@@ -2,7 +2,7 @@
 
 ## What are Presets?&#x20;
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Find this section on shapes.inc >> AI Engine >> Presets</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Find this section on shapes.inc >> AI Engine >> Presets</p></figcaption></figure>
 
 ### **Language Preset**
 
