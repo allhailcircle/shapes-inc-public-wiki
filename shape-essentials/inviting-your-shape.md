@@ -30,7 +30,11 @@ description: >-
 
 #### Step 3: Select In-App Authorization Under Authorization Method
 
+<figure><img src="../.gitbook/assets/Screenshot 2023-12-02 at 3.25.03 PM.png" alt=""><figcaption></figcaption></figure>
+
 #### Step 4: Select `Bot`
+
+<figure><img src="../.gitbook/assets/Screenshot 2023-12-02 at 3.27.08 PM.png" alt=""><figcaption></figcaption></figure>
 
 #### Step 5: Select **`Read Messages`**`/`**`View Channels`**, **`Read Message History`**, and **`Send Messages`** for permissions > save changes. This will make the “Add to Server” button appear on your Shape’s profile
 

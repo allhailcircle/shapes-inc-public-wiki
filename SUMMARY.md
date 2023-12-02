@@ -11,7 +11,7 @@
   * [Advanced Practices](shape-essentials/standard-practices/advanced-practices.md)
 * [Mobile Application](shape-essentials/mobile-application.md)
 * [Changelog](shape-essentials/changelog.md)
-* [Making your shape better!!!](shape-essentials/making-your-shape-better.md)
+* [Making your Shape better!!!](shape-essentials/making-your-shape-better.md)
 * [Shape Profile](shape-essentials/shape-profile/README.md)
   * [🙂 Initial Message](shape-essentials/shape-profile/initial-message.md)
 * [Personality](shape-essentials/personality/README.md)
@@ -47,10 +47,6 @@
 
 * [Feature control](server-owners-settings/feature-control.md)
 * [Use Cases](server-owners-settings/use-cases.md)
-
-***
-
-* [BONUS](bonus.md)
 
 ## Links
 
