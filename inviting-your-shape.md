@@ -28,13 +28,13 @@ description: >-
 
 <figure><img src=".gitbook/assets/Screenshot 2023-12-01 at 12.55.03 PM.png" alt="" width="247"><figcaption></figcaption></figure>
 
-#### Step 3:&#x20;
+#### Step 3: Select In-App Authorization Under Authorization Method
 
-1. Under authorization method, select “In-app authorization"&#x20;
-2. Select bot&#x20;
-3. Select **Read Messages**/**View Channels**, **Read Message History**, **Send Messages** for permissions > save changes. This will make the “Add to Server” button appear on the shape’s profile
+#### Step 4: Select `Bot`
 
-\
+#### Step 5: Select **`Read Messages`**`/`**`View Channels`**, **`Read Message History`**, and **`Send Messages`** for permissions > save changes. This will make the “Add to Server” button appear on your Shape’s profile
+
+![](<.gitbook/assets/step\_4 (1) (1).gif>)\
 
 
 ## How can my friends invite my Shape?
