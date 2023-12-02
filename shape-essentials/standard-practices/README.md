@@ -16,21 +16,21 @@ Inviting your bot is usually quite easy, although sometimes you may receive an e
 4. Disable **OAUTH2 CODE GRANT**.&#x20;
 5. Retry inviting your Discord bot.
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Unable to Create In-App Authorization
 
 1. Go back to the `Bot` section on the [<mark style="color:purple;">Discord Developer Portal</mark> ](https://discord.com/developers/applications)> make sure that the `PUBLIC BOT` option is enabled
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-12-01 at 9.38.16 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-12-01 at 9.38.16 PM.png" alt=""><figcaption></figcaption></figure>
 
 ### Missing In-App Authorization Method
 
-### ![](<../.gitbook/assets/image (7) (1).png>)
+### ![](<../../.gitbook/assets/image (7) (1).png>)
 
 if you can’t find the “In-App Authorization” option, go back to the `Bot` section and make sure that `REQUIRES OAUTH2 CODE GRANT` option is disabled
 
 \
-![](<../.gitbook/assets/Screenshot 2023-12-01 at 9.40.54 PM.png>)
+![](<../../.gitbook/assets/Screenshot 2023-12-01 at 9.40.54 PM.png>)

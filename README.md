@@ -1,4 +1,8 @@
 ---
+description: >-
+  Ever wonder what it would be like to talk to a cheese or a fish, a favorite
+  anime character, or just make ur own cute little imaginary bestie? You can
+  now.
 cover: .gitbook/assets/Screenshot 2023-12-01 at 11.44.56 AM.png
 coverY: 0
 layout:
@@ -31,9 +35,29 @@ We hope this website provides you with enough information to help you create the
 &#x20;\~ Shapes, Inc
 {% endhint %}
 
+## About Us
+
+Shapes, Inc. is an applied AI company dedicated to making Shapes. Shapes are AI friends that talk to you on Discord. Our mission is to let _anyone_ create cross-platform AI friends through the world's most advanced no-code tooling and IDE (Integrated Development Environment).&#x20;
+
+## What are Shapes?
+
+Shapes are AI friends that talk on Discord. they can be friendly (or mean!) depending on your design. Each shape has their own unique memory.
+
+Shapes can....
+
+* Talk to you in DMs
+* Talk your friends in server channels
+* Listen to voice notes
+* See images
+* Send GIFs&#x20;
+* Send rickrolls and other YouTube videos
+* Roleplay endlessly&#x20;
+* Welcome new server members
+* Ping chat revive w/ new questions and messages
+
 ## Getting Started
 
-We support two different developer experiences. Our [**Quick** mode](your-first-shape/) allows developers to able to create lively Shapes in less than a minute. Our [**Advanced** mode](shape-essentials/making-your-shape-better.md) allows adventurous developer to perfect their Shape by using more powerful tools.
+Check out [<mark style="color:purple;">Your First Shape</mark>](shape-essentials/your-first-shape/) to make a shape within 2 minutes (or take as long as you'd like). With great power comes great responsibility :palms\_up\_together:
 
 ## What Defines a Shape
 
@@ -48,4 +72,28 @@ It's important to keep all four of these in mind.&#x20;
 
 For example, you may carefully craft a Shape to play a particular word game, but if the user decides to start talking about something completely different, they may try to be cooperative and follow the user's lead.
 
-Additionally, memories will be made over time, and will slowly influence Shape responses.
+Additionally, memories will be formed over time, and will slowly influence Shape responses.
+
+<div align="right" data-full-width="true">
+
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+<div align="left" data-full-width="true">
+
+<figure><img src=".gitbook/assets/image.png" alt="" width="375"><figcaption></figcaption></figure>
+
+</div>
+
+<div align="right">
+
+<figure><img src=".gitbook/assets/image (2).png" alt="" width="375"><figcaption></figcaption></figure>
+
+</div>
+
+<div align="left" data-full-width="true">
+
+<figure><img src=".gitbook/assets/image (3).png" alt="" width="375"><figcaption></figcaption></figure>
+
+</div>

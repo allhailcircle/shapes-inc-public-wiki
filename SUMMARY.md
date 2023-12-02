@@ -1,18 +1,16 @@
 # Table of contents
 
-* [⭐ Welcome to Shapes, Inc Manual](README.md)
-* [🚨 Guidelines & Privacy](guidelines-and-privacy.md)
-* [Shapes, Inc](<README (1).md>)
-* [Your First Shape](your-first-shape/README.md)
-  * [Creating Multiple Shapes](your-first-shape/page.md)
-* [Inviting Your Shape](inviting-your-shape.md)
-* [Standard Practices](standard-practices/README.md)
-  * [Advanced Practices](standard-practices/advanced-practices.md)
-* [Mobile Application](mobile-application.md)
-* [Changelog](changelog.md)
-
 ## Shape Essentials
 
+* [⭐ Welcome to Shapes, Inc Manual](README.md)
+* [🚨 Guidelines & Privacy](shape-essentials/guidelines-and-privacy.md)
+* [Your First Shape](shape-essentials/your-first-shape/README.md)
+  * [Creating Multiple Shapes](shape-essentials/your-first-shape/creating-multiple-shapes.md)
+* [Inviting Your Shape](shape-essentials/inviting-your-shape.md)
+* [Standard Practices](shape-essentials/standard-practices/README.md)
+  * [Advanced Practices](shape-essentials/standard-practices/advanced-practices.md)
+* [Mobile Application](shape-essentials/mobile-application.md)
+* [Changelog](shape-essentials/changelog.md)
 * [Making your shape better!!!](shape-essentials/making-your-shape-better.md)
 * [Shape Profile](shape-essentials/shape-profile/README.md)
   * [🙂 Initial Message](shape-essentials/shape-profile/initial-message.md)
