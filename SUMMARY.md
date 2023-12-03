@@ -12,7 +12,7 @@
 * [Mobile Application](shape-essentials/mobile-application.md)
 * [Changelog](shape-essentials/changelog.md)
 * [Making your Shape better!!!](shape-essentials/making-your-shape-better.md)
-* [Shape Profile](shape-essentials/shape-profile.md)
+* [Shape Profile](shape-essentials/shape-profile/README.md)
 * [Personality](shape-essentials/personality/README.md)
   * [ℹ Presets](shape-essentials/personality/presets.md)
   * [💬 Chatiness](shape-essentials/personality/chatiness.md)
@@ -45,7 +45,6 @@
 ## SERVER OWNERS SETTINGS
 
 * [Feature control](server-owners-settings/feature-control.md)
-* [Use Cases](server-owners-settings/use-cases.md)
 
 ## Links
 

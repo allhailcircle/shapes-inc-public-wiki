@@ -38,17 +38,20 @@ To create your very own Shape, follow the instructions below:
     <figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>Discord Developer Portal</p></figcaption></figure>
 
 
-3.  Write your shape's name, agree to the Terms, press the C**reate** button
 
-    &#x20;         _Note: you can change the application name at any time!_
+
+
+5. Write your shape's name, agree to the Terms, press the C**reate** button
+
+&#x20;         _Note: you can change the application name at any time!_
 
 <figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
-4. On the left sidebar, select the **Bot** tab. Here, you can edit everything about your bot, including its username of the bot. Under the "Privileged Gateway Intents" section, enable Message Content Intent and Server Members intent.
+6. On the left sidebar, select the **Bot** tab. Here, you can edit everything about your bot, including its username of the bot. Under the "Privileged Gateway Intents" section, enable Message Content Intent and Server Members intent.
 
 <figure><img src="../../.gitbook/assets/step_5.gif" alt=""><figcaption></figcaption></figure>
 
-4. On the top of the **Bot page, you** will see a "token" section. Click **Reset Token**, **Copy**, and Share your shape's bot token on the [`Bot Token` page](https://shapes.inc)
+7. On the top of the **Bot page, you** will see a "token" section. Click **Reset Token**, **Copy**, and Share your shape's bot token on the [`Bot Token` page](https://shapes.inc)
 
 <figure><img src="../../.gitbook/assets/Screenshot 2023-11-30 at 11.46.08 AM.png" alt=""><figcaption></figcaption></figure>
 
