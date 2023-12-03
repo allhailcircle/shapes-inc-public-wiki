@@ -3,12 +3,7 @@ description: >-
   Ever wonder what it would be like to talk to a cheese or a fish, a favorite
   anime character, or just make ur own cute little imaginary bestie? You can
   now.
-cover: .gitbook/assets/Screenshot 2023-12-01 at 11.44.56 AM.png
-coverY: 0
 layout:
-  cover:
-    visible: true
-    size: full
   title:
     visible: true
   description:
