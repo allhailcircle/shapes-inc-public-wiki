@@ -1,7 +1,5 @@
 # Variables
 
-
-
 When tweaking details on the dashboard, you have two awesome variables at your disposal:
 
 1. **{shape}**: This is your signal to the shape that you're referring to them. Use it to tailor specific details related to your digital companion.

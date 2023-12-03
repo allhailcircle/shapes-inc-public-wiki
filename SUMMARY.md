@@ -7,34 +7,20 @@
 * [Your First Shape](shape-essentials/your-first-shape/README.md)
   * [Creating Multiple Shapes](shape-essentials/your-first-shape/creating-multiple-shapes.md)
 * [Inviting Your Shape](shape-essentials/inviting-your-shape.md)
-* [Standard Practices](shape-essentials/standard-practices/README.md)
-  * [Advanced Practices](shape-essentials/standard-practices/advanced-practices.md)
+* [Frequently Asked Questions](shape-essentials/frequently-asked-questions/README.md)
+  * [Advanced Practices](shape-essentials/frequently-asked-questions/advanced-practices.md)
 * [Mobile Application](shape-essentials/mobile-application.md)
 * [Changelog](shape-essentials/changelog.md)
-* [Making your Shape better!!!](shape-essentials/making-your-shape-better.md)
+* [Advanced Creation](shape-essentials/advanced-creation/README.md)
+  * [Variables](shape-essentials/advanced-creation/variables.md)
+  * [Knowledge](shape-essentials/advanced-creation/knowledge.md)
+  * [Training](shape-essentials/advanced-creation/training.md)
+  * [AI Engine](shape-essentials/advanced-creation/ai-engine.md)
 * [Shape Profile](shape-essentials/shape-profile/README.md)
-* [Personality](shape-essentials/personality/README.md)
-  * [ℹ Presets](shape-essentials/personality/presets.md)
-  * [💬 Chatiness](shape-essentials/personality/chatiness.md)
-* [Knowledge](shape-essentials/knowledge/README.md)
-  * [Links](shape-essentials/knowledge/links.md)
-  * [Knowledge](shape-essentials/knowledge/knowledge.md)
-  * [No-Code Commands](shape-essentials/knowledge/no-code-commands.md)
-  * [Relationships](shape-essentials/knowledge/relationships.md)
-* [Training](shape-essentials/training.md)
-* [Ai Engine](shape-essentials/ai-engine/README.md)
-  * [AI Generation Settings](shape-essentials/ai-engine/ai-generation-settings/README.md)
-    * [Model](shape-essentials/ai-engine/ai-generation-settings/model.md)
-    * [Temperature](shape-essentials/ai-engine/ai-generation-settings/temperature.md)
-    * [Response Length](shape-essentials/ai-engine/ai-generation-settings/response-length.md)
-    * [Context Window](shape-essentials/ai-engine/ai-generation-settings/context-window.md)
-  * [Time](shape-essentials/ai-engine/time.md)
-* [User settings](shape-essentials/user-settings/README.md)
+* [General Settings](shape-essentials/general-settings.md)
+* [User Settings](shape-essentials/user-settings/README.md)
   * [Memory](shape-essentials/user-settings/memory.md)
   * [Profile](shape-essentials/user-settings/profile.md)
-* [Messaging Basics](shape-essentials/messaging-basics.md)
-* [Variables](shape-essentials/variables.md)
-* [Tips, Tricks, and Advice](shape-essentials/tips-tricks-and-advice.md)
 
 ## ADVANCED CONTROLS
 
@@ -42,9 +28,11 @@
 * [Features](advanced-controls/features.md)
 * [Gifting Shapes](advanced-controls/gifting-shapes.md)
 
-## SERVER OWNERS SETTINGS
+## 🔨 SERVER MANAGEMENT
 
-* [Feature control](server-owners-settings/feature-control.md)
+* [Active Developer Badge](server-management/active-developer-badge.md)
+* [Page](server-management/page.md)
+* [Feature control](server-management/feature-control.md)
 
 ## Links
 

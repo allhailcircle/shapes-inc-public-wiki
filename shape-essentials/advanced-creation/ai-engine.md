@@ -1,10 +1,10 @@
-# Ai Engine
+# AI Engine
 
 
 
 _Welcome to the powerhouse of control for your shape—the AI Engine. This section provides you with maximum control, allowing you to fine-tune various aspects. Let's break it down into five key subsections:_
 
-### [Preset](../personality/presets.md)
+### [Preset](broken-reference)
 
 Choose a language and preset for your shape, defining its linguistic style and behavior.
 
@@ -20,7 +20,7 @@ Customize your shape's long-term memory settings. Decide the number of memories 
 
 <figure><img src="../../.gitbook/assets/Screenshot 2023-11-30 103316.png" alt=""><figcaption></figcaption></figure>
 
-### [LLM Generation](ai-generation-settings/)
+### [LLM Generation](broken-reference)
 
 Manage your shape's response generation in this section. Choose the model it runs on, adjust creativity with temperature, determine response length, and control the context window for a balanced conversation.
 

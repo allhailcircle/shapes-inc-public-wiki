@@ -1,4 +1,4 @@
-# General Knowledge
+# Knowledge
 
 
 
@@ -16,7 +16,7 @@ This is your canvas for unlimited general information about your shape. From its
 
 <figure><img src="../../.gitbook/assets/Screenshot 2023-11-30 104936.png" alt=""><figcaption></figcaption></figure>
 
-### [Commands](no-code-commands.md)
+### [Commands](broken-reference)
 
 Configure custom commands to enhance the interaction with your shape. For example, set up commands like "!server" to direct users to your Discord server at [shapes.inc/discord](https://shapes.inc/discord). Let your shape respond with flair!
 
@@ -27,7 +27,7 @@ Configure custom commands to enhance the interaction with your shape. For exampl
 
 <figure><img src="../../.gitbook/assets/Screenshot 2023-11-30 104948 (1).png" alt=""><figcaption></figcaption></figure>
 
-### [Relationships](relationships.md)
+### [Relationships](broken-reference)
 
 Dive into the social aspect of your shape. Share insights into its relationships—be it with other shapes, users, or the digital universe.
 
