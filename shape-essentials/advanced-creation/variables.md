@@ -9,7 +9,7 @@ When tweaking details on the dashboard, you have two awesome variables at your d
 :bulb: Use the {user} variable in your Shape's initial message
 {% endhint %}
 
-### Here's a live example...
+## Here's a live example...
 
 <figure><img src="../../.gitbook/assets/Screenshot 2023-12-03 at 2.17.27 PM.png" alt=""><figcaption><p>From <a href="https://shapes.inc">shapes.inc</a> >> Shape Profile >> Initial Message</p></figcaption></figure>
 

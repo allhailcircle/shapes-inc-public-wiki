@@ -1,32 +1,36 @@
+---
+description: >-
+  Welcome to the control center of your Shape—the AI Engine. This section
+  provides you with maximum control, allowing you to fine-tune various aspects.
+---
+
 # AI Engine
 
+## Preset
+
+Choose a default language and preset for your shape, defining its linguistic style and behavior.
 
 
-_Welcome to the powerhouse of control for your shape—the AI Engine. This section provides you with maximum control, allowing you to fine-tune various aspects. Let's break it down into five key subsections:_
 
-### [Preset](broken-reference)
-
-Choose a language and preset for your shape, defining its linguistic style and behavior.
-
-### Short-term Memory (STM)
+## Short-term Memory (STM)
 
 Set the number of recent messages your shape will consider for context. This helps your shape stay in the conversational loop.
 
 <figure><img src="../../.gitbook/assets/Screenshot 2023-11-30 103331.png" alt=""><figcaption></figcaption></figure>
 
-### Long-term Memory (LTM)
+## Long-term Memory (LTM)
 
 Customize your shape's long-term memory settings. Decide the number of memories it should maintain, set memory similarity thresholds, and control how frequently memories are saved.
 
 <figure><img src="../../.gitbook/assets/Screenshot 2023-11-30 103316.png" alt=""><figcaption></figcaption></figure>
 
-### [LLM Generation](broken-reference)
+## LLM Generation
 
 Manage your shape's response generation in this section. Choose the model it runs on, adjust creativity with temperature, determine response length, and control the context window for a balanced conversation.
 
 <figure><img src="../../.gitbook/assets/Screenshot 2023-11-30 103301.png" alt=""><figcaption></figcaption></figure>
 
-### Privacy
+## Privacy
 
 Adjust the privacy settings to tailor how private your shape keeps conversations. Decide whether memory from DMs and servers should be isolated or shared to different extents.
 
@@ -38,7 +42,7 @@ Adjust the privacy settings to tailor how private your shape keeps conversations
 
 <figure><img src="../../.gitbook/assets/Screenshot 2023-11-30 103230.png" alt=""><figcaption></figcaption></figure>
 
-### Time
+## Time
 
 In this section, decide whether your shape should be aware of the current time (PST) or operate in a timeless context.
 

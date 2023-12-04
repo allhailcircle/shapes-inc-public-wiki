@@ -4,7 +4,7 @@ description: >-
   you may need in the future.
 ---
 
-# Standard Practices
+# Frequently Asked Questions
 
 ## OAuth2 Code Grant
 
@@ -18,7 +18,7 @@ Inviting your bot is usually quite easy, although sometimes you may receive an e
 
 <figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Unable to Create In-App Authorization
 

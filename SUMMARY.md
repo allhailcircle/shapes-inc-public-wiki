@@ -18,21 +18,17 @@
   * [AI Engine](shape-essentials/advanced-creation/ai-engine.md)
 * [Shape Profile](shape-essentials/shape-profile/README.md)
 * [General Settings](shape-essentials/general-settings.md)
-* [User Settings](shape-essentials/user-settings/README.md)
-  * [Memory](shape-essentials/user-settings/memory.md)
-  * [Profile](shape-essentials/user-settings/profile.md)
+* [User Settings](shape-essentials/user-settings.md)
 
 ## ADVANCED CONTROLS
 
-* [Slash Commands](advanced-controls/slash-commands.md)
 * [Features](advanced-controls/features.md)
 * [Gifting Shapes](advanced-controls/gifting-shapes.md)
 
 ## 🔨 SERVER MANAGEMENT
 
 * [Active Developer Badge](server-management/active-developer-badge.md)
-* [Page](server-management/page.md)
-* [Feature control](server-management/feature-control.md)
+* [Feature Control](server-management/feature-control.md)
 
 ## Links
 

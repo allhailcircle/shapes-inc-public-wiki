@@ -1,35 +1,55 @@
+---
+description: Your hub for crafting the information your Shape knows
+---
+
 # Knowledge
 
-
-
-_Welcome to the Knowledge Section, your hub for shaping the information available about your digital companion. Let's explore the four subsections:_
-
-### Links
+## Links
 
 If your shape has a dedicated wiki page or webpage with comprehensive details, drop the link here. Your shape will scrape information from it, providing users with a wealth of knowledge.
 
+{% hint style="info" %}
+Uploading a link is a one-time knowledge update. So, if the website changes, the knowledge won’t update. If you want the knowledge to update, you will have to re-upload the website link (or type in the new information).&#x20;
+{% endhint %}
+
 <figure><img src="../../.gitbook/assets/Screenshot 2023-11-30 104924.png" alt=""><figcaption></figcaption></figure>
 
-### General
+## General
 
-This is your canvas for unlimited general information about your shape. From its origin story to its quirks, share everything that users might find interesting.
+This is your canvas for unlimited general information about your shape. From its origin story to its quirks, share everything that {user} (the person wanting to talk to your shape) might find interesting.
 
 <figure><img src="../../.gitbook/assets/Screenshot 2023-11-30 104936.png" alt=""><figcaption></figcaption></figure>
 
-### [Commands](broken-reference)
+## No-Code Commands
 
-Configure custom commands to enhance the interaction with your shape. For example, set up commands like "!server" to direct users to your Discord server at [shapes.inc/discord](https://shapes.inc/discord). Let your shape respond with flair!
-
-**Example:**
-
-* {user}: !server
-* {shape}: Hey there! Join our vibrant community on Discord at [shapes.inc/discord](https://shapes.inc/discord). See you there!
+Configure custom commands to enhance the interaction with your shape. Here are a few examples:&#x20;
 
 <figure><img src="../../.gitbook/assets/Screenshot 2023-11-30 104948 (1).png" alt=""><figcaption></figcaption></figure>
 
-### [Relationships](broken-reference)
+**Examples:**
 
-Dive into the social aspect of your shape. Share insights into its relationships—be it with other shapes, users, or the digital universe.
+* `If someone types !server then {shape} responds that the user should join the server at discord.gg/circlelabs`
+* `(shape} is a bot that is only about sending country flag images to people Like if someone asks for a flag then the bot sends [<country name here>](`[`https://www.countryflags.com/wp-content/uploads/`](https://www.countryflags.com/wp-content/uploads/)`<country name here in lowercase and no space>-flag-png-large.png) Like if someone asks for Germany flag then the bot sends` [`Germany`](https://www.countryflags.com/wp-content/uploads/germany-flag-png-large.png)&#x20;
+
+{% hint style="info" %}
+Your shape won't repeat the commands word-for-word -- they'll make something similar in their own voice!
+{% endhint %}
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-12-03 at 6.52.10 PM.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+Use unique command names. This will make sure they register! For example, !hi might not register with your Shape but !Nickicord will work.
+{% endhint %}
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-12-03 at 6.55.19 PM.png" alt=""><figcaption></figcaption></figure>
+
+## Relationships
+
+Dive into the social aspect of your shape. Use mentions/tags to add relationships for your shape.&#x20;
+
+{% hint style="info" %}
+You can only tag users who have talked to shapes. Tags are Discord usernames.&#x20;
+{% endhint %}
 
 <figure><img src="../../.gitbook/assets/Screenshot 2023-11-30 105016.png" alt=""><figcaption></figcaption></figure>
 
