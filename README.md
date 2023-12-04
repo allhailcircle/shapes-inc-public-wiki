@@ -24,26 +24,20 @@ Here you'll be able to access all the information you might need while creating 
 
 Located on the left, there is a table of contents which you can browse to find guides with the module you need. Select the module you wish to see and click it. This will walk you through step-by-step with and screenshots.
 
-{% hint style="success" %}
-We hope this website provides you with enough information to help you create the best Shape for **your** community!&#x20;
-
-&#x20;\~ Shapes, Inc
-{% endhint %}
-
 ## About Us
 
 Shapes, Inc. is an applied AI company dedicated to making Shapes. Shapes are AI friends that talk to you on Discord. Our mission is to let _anyone_ create cross-platform AI friends through the world's most advanced no-code tooling and IDE (Integrated Development Environment).&#x20;
 
 ## What are Shapes?
 
-Shapes are AI friends that talk on Discord. they can be friendly (or mean!) depending on your design. Each shape has their own unique memory.
+Shapes are AI friends that talk on Discord. they can be friendly (or evil, distant, sarcastic, wholesome, silly, mean) depending on your design. Each shape has their own unique memory.
 
 Shapes can....
 
 * Talk to you in DMs
 * Talk your friends in server channels
 * Listen to voice notes
-* See images
+* See and send images
 * Send GIFs&#x20;
 * Send rickrolls and other YouTube videos
 * Roleplay endlessly&#x20;

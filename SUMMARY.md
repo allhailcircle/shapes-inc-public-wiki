@@ -3,14 +3,9 @@
 ## Shape Essentials
 
 * [⭐ Welcome to Shapes, Inc Manual](README.md)
-* [🚨 Guidelines & Privacy](shape-essentials/guidelines-and-privacy.md)
 * [Your First Shape](shape-essentials/your-first-shape/README.md)
   * [Creating Multiple Shapes](shape-essentials/your-first-shape/creating-multiple-shapes.md)
 * [Inviting Your Shape](shape-essentials/inviting-your-shape.md)
-* [Frequently Asked Questions](shape-essentials/frequently-asked-questions/README.md)
-  * [Advanced Practices](shape-essentials/frequently-asked-questions/advanced-practices.md)
-* [Mobile Application](shape-essentials/mobile-application.md)
-* [Changelog](shape-essentials/changelog.md)
 * [Advanced Creation](shape-essentials/advanced-creation/README.md)
   * [Variables](shape-essentials/advanced-creation/variables.md)
   * [Knowledge](shape-essentials/advanced-creation/knowledge.md)
@@ -19,6 +14,13 @@
 * [Shape Profile](shape-essentials/shape-profile/README.md)
 * [General Settings](shape-essentials/general-settings.md)
 * [User Settings](shape-essentials/user-settings.md)
+* [Frequently Asked Questions](shape-essentials/frequently-asked-questions/README.md)
+  * [Advanced Practices](shape-essentials/frequently-asked-questions/advanced-practices.md)
+* [Changelog](shape-essentials/changelog.md)
+* [Mobile Application](shape-essentials/mobile-application.md)
+* [🚨 Guidelines & Privacy](shape-essentials/guidelines-and-privacy/README.md)
+  * [Terms of Service](shape-essentials/guidelines-and-privacy/terms-of-service.md)
+  * [Privacy Policy](shape-essentials/guidelines-and-privacy/privacy-policy.md)
 
 ## ADVANCED CONTROLS
 
