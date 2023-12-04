@@ -15,6 +15,7 @@
 * [Shape Profile](shape-essentials/shape-profile/README.md)
 * [General Settings](shape-essentials/general-settings.md)
 * [User Settings](shape-essentials/user-settings.md)
+* [Shapes Community](shape-essentials/shapes-community.md)
 * [Frequently Asked Questions](shape-essentials/frequently-asked-questions/README.md)
   * [Developer Mode](shape-essentials/frequently-asked-questions/developer-mode.md)
 * [Changelog](shape-essentials/changelog.md)
