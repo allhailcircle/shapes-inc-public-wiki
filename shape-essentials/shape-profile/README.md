@@ -1,12 +1,12 @@
 ---
-description: Personalize your Shape's Discord account
+description: Personalize your Shape's Discord account.
 ---
 
 # Shape Profile
 
-_Welcome to the Profile section, where you can fine-tune your shape's personality and presence. Let's navigate through the customization options to make your shape stand out!_
 
-### 1. **Profile Picture**
+
+## 1. **Profile Picture**
 
 * [ ] Upload an image that showcases your shape's essence. This image will be visible to everyone interacting with your shape.&#x20;
 

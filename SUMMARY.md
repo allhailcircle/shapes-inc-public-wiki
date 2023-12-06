@@ -9,7 +9,7 @@
   * [+ Add App Button](shape-essentials/inviting-your-shape/+-add-app-button.md)
 * [Advanced Customization](shape-essentials/advanced-customization/README.md)
   * [Variables](shape-essentials/advanced-customization/variables.md)
-  * [Shape Profile](shape-essentials/advanced-customization/shape-profile.md)
+  * [Shape Profile](shape-essentials/shape-profile/README.md)
   * [Personality](shape-essentials/advanced-customization/personality.md)
   * [Knowledge](shape-essentials/advanced-customization/knowledge.md)
   * [Training](shape-essentials/advanced-customization/training.md)
@@ -36,7 +36,6 @@
 ## 🔨 SERVER MANAGEMENT
 
 * [Active Developer Badge](server-management/active-developer-badge.md)
-* [Feature Control](server-management/feature-control.md)
 
 ## Links
 

@@ -1,9 +1,9 @@
 # Variables
 
-When tweaking details on the dashboard, you have two awesome variables at your disposal:
+When managing details on the dashboard, you have two variables at your disposal:
 
 1. **{shape}**: This is your signal to your Shape that you're referring to them. Use it to tailor specific details.
-2. **{user}**: This tag lets your shape know you're talking about the user (name). It adds that personal touch, making interactions more engaging and individualized.
+2. **{user}**: This tag lets your shape know you're talking about the user (name).
 
 {% hint style="info" %}
 :bulb: Use the {user} variable in your Shape's initial message

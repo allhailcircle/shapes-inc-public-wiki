@@ -41,9 +41,9 @@ description: >-
 
 #### Step 5: Select **`Read Messages`**`/`**`View Channels`**, **`Read Message History`**, and **`Send Messages`** for permissions > save changes. This will make the “Add App” button appear on your Shape’s profile
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-12-03 at 8.46.41 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
-#### Step 6: Restart your Discord app.&#x20;
+#### Step 6: Refresh your Discord app.&#x20;
 
 ## Discord Link
 

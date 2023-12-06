@@ -75,4 +75,4 @@ After entering the bot token... **do not** ever reset it. This will cause your S
 
 9. Press **Advanced Setting**s to customize your shape's Discord profile.&#x20;
 
-### Edit [<mark style="color:purple;">Discord Profile</mark>](../advanced-customization/shape-profile.md)&#x20;
+### Edit [<mark style="color:purple;">Discord Profile</mark>](../shape-profile/)&#x20;
