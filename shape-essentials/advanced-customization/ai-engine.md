@@ -26,7 +26,7 @@ Set the number of recent messages your Shape will consider when replying to a me
 
 
 
-We recommend enabling Short-Term Memory for 10-15 messages.
+:factory:We recommend enabling Short-Term Memory for 10-15 messages.
 
 <figure><img src="../../.gitbook/assets/Screenshot 2023-11-30 103331.png" alt=""><figcaption></figcaption></figure>
 
@@ -36,17 +36,37 @@ We recommend enabling Short-Term Memory for 10-15 messages.
 
 Decide the number of long-term memories your Shape should take into context when replying to a message. When a Shape is generating a reply, they will retrieving similar memories to the recent message -- so this feature lets you choose up-to how many memories can they reference! \
 \
-We recommend keeping `Number of Memories` at 1 so your Shape doesn't get confused from different memories. :bulb:Disabling LTM can keep roleplays new (so the Shape doesn't start responding based previous roleplays)
+:factory: We recommend keeping `Number of Memories` at 1 so your Shape doesn't get confused from different memories.
+
+:bulb:Disabling LTM can keep roleplays new (so the Shape doesn't start responding based previous roleplays)
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-12-04 at 6.44.44 AM.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-You can review Memories&#x20;
+You can review your Shape's [<mark style="color:purple;">Memories</mark>](../user-settings/memories.md) and manage how memories are synced in [<mark style="color:purple;">Privacy</mark>](ai-engine.md#privacy)
 {% endhint %}
 
-, set memory similarity thresholds, and control how frequently memories are saved.
+### Memory Similarity Threshold
+
+Memory Similarity Threshold dictates what long-term memories are retrieved for a Shape to reference when they are generating their reply.
+
+> If the memory similarity threshold is lower, it's easier for items to be considered a match because they don't have to be very similar. It's like having a low bar for a match.
+
+> If the threshold is higher, items need to be **very** similar to match. So it's like raising the bar—you're being pickier about what counts as similar.
+
+:factory: We recommend setting your Memory Similarity Threshold at 0.8
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-12-04 at 7.00.03 AM.png" alt=""><figcaption></figcaption></figure>
+
+### Frequency&#x20;
+
+Shapes generate their own memories. You can view this on y
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-12-04 at 7.02.41 AM.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/Screenshot 2023-11-30 103316.png" alt=""><figcaption></figcaption></figure>
 
-## LLM Generation
+## Generation
 
 Manage your shape's response generation in this section. Choose the model it runs on, adjust creativity with temperature, determine response length, and control the context window for a balanced conversation.
 
