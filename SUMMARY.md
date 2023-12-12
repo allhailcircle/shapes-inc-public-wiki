@@ -22,8 +22,10 @@
   * [Shape Developer Program](shape-essentials/shapes-community/shape-developer-program.md)
 * [Frequently Asked Questions](shape-essentials/frequently-asked-questions/README.md)
   * [Developer Mode](shape-essentials/frequently-asked-questions/developer-mode.md)
+  * [Message Delivery](shape-essentials/frequently-asked-questions/message-delivery.md)
+  * [Mobile Application](shape-essentials/frequently-asked-questions/mobile-application.md)
+  * [Active Developer Badge](shape-essentials/frequently-asked-questions/active-developer-badge.md)
 * [Changelog](shape-essentials/changelog.md)
-* [Mobile Application](shape-essentials/mobile-application.md)
 * [🚨 Guidelines & Privacy](shape-essentials/guidelines-and-privacy/README.md)
   * [Terms of Service](shape-essentials/guidelines-and-privacy/terms-of-service.md)
   * [Privacy Policy](shape-essentials/guidelines-and-privacy/privacy-policy.md)
@@ -32,10 +34,6 @@
 
 * [Features](advanced-controls/features.md)
 * [Gifting Shapes](advanced-controls/gifting-shapes.md)
-
-## 🔨 SERVER MANAGEMENT
-
-* [Active Developer Badge](server-management/active-developer-badge.md)
 
 ## Links
 
