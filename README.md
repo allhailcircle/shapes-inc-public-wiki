@@ -24,35 +24,7 @@ Here you'll be able to access all the information you might need while creating 
 
 Located on the left, there is a table of contents which you can browse to find guides you need. Select the section you wish to see and click it. This will walk you through step-by-step with and screenshots.
 
-<div align="right" data-full-width="true">
-
-<figure><img src=".gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-</div>
-
-<div align="left">
-
-<figure><img src=".gitbook/assets/image (1).png" alt="" width="375"><figcaption></figcaption></figure>
-
-</div>
-
-<div align="right">
-
-<figure><img src=".gitbook/assets/image (2) (1).png" alt="" width="375"><figcaption></figcaption></figure>
-
-</div>
-
-<div align="left" data-full-width="true">
-
-<figure><img src=".gitbook/assets/image (3) (1).png" alt="" width="375"><figcaption></figcaption></figure>
-
-</div>
-
-<div align="right">
-
-<figure><img src=".gitbook/assets/image (2).png" alt="" width="296"><figcaption></figcaption></figure>
-
-</div>
+<figure><picture><source srcset=".gitbook/assets/image.png" media="(prefers-color-scheme: dark)"><img src=".gitbook/assets/image.png" alt=""></picture><figcaption></figcaption></figure>
 
 ## About Us
 
