@@ -1,8 +1,6 @@
 # Privacy Policy
 
-CIRCLE LABS’ END USER PRIVACY POLICY
-
-_Effective Date_: December 1, 2023
+_Effective Date: December 1, 2023_
 
 Circle Labs, Inc. (“Circle Labs” or “we,” “us,” or “our”) provides, owns, maintains, or operates (as the case may be) certain software applications (and other smartphone, device, artificial intelligence or electronic applications or tools) (collectively, the “App”), the Circle Labs websites \[located at https://circlelabs.xyz (collectively, the “Website”), and certain social media tools and platforms (together with the Website and the App, the “Services”). Information displayed, used, or collected through the Services and any emails, text messages, direct messages, messages or notifications delivered through the App, or other communications whether electronic or written are referred to collectively as the “Resources.”
 
