@@ -22,6 +22,7 @@
   * [Shape Developer Program](shape-essentials/shapes-community/shape-developer-program.md)
 * [Frequently Asked Questions](shape-essentials/frequently-asked-questions/README.md)
   * [Developer Mode](shape-essentials/frequently-asked-questions/developer-mode.md)
+  * [Uhh Can You Say That Again](shape-essentials/frequently-asked-questions/uhh-can-you-say-that-again.md)
   * [Message Delivery](shape-essentials/frequently-asked-questions/message-delivery.md)
   * [Mobile Application](shape-essentials/frequently-asked-questions/mobile-application.md)
   * [Active Developer Badge](shape-essentials/frequently-asked-questions/active-developer-badge.md)
