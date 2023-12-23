@@ -2,11 +2,11 @@
 
 In this section, you'll find two tabs:
 
-## **Add a Shape**
+## **1. Add a Shape**
 
 Clicking on this tab will open a window allowing you to add a shape to your Discord server.
 
-## **Server Settings**&#x20;
+## **2. Server Settings**&#x20;
 
 Here, you can configure the settings for your shape in the server. This includes:
 
