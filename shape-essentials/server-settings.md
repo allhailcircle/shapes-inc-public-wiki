@@ -1,0 +1,46 @@
+# Server Settings
+
+In this section, you'll find two tabs:
+
+## **Add a Shape**
+
+Clicking on this tab will open a window allowing you to add a shape to your Discord server.
+
+## **Server Settings**&#x20;
+
+Here, you can configure the settings for your shape in the server. This includes:
+
+**Select a Server:** Choose a server from the list. If the shape is already in the server, you'll see configurations; otherwise, there will be a button to add the shape.
+
+## **Welcome Users**&#x20;
+
+Configure your shape to personally welcome new members. Options include sending welcome messages in the server, in DMs, both, or disabling it.
+
+<figure><img src="../.gitbook/assets/Screenshot 2023-12-23 075444.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="warning" %}
+Make sure your shape has SERVER MEMBERS INTENT to use this feature. ^
+{% endhint %}
+
+## **Keywords**
+
+Set custom trigger words for your shape to respond to when mentioned.
+
+<figure><img src="../.gitbook/assets/Screenshot 2023-12-23 075521.png" alt=""><figcaption></figcaption></figure>
+
+## **Chat Revive**
+
+Configure your shape as a chat reviver. It will ask questions like a real person, ping a selected role.
+
+Choose a channel, specify a role to be pinged, and set the time frequency.
+
+<figure><img src="../.gitbook/assets/Screenshot 2023-12-23 080608.png" alt=""><figcaption></figcaption></figure>
+
+## **General Settings**&#x20;
+
+Customize how your shape communicates. Options include talking style, such as sending a new message when replying, pinging the user with a new message, replying to user's messages, and more.
+
+* **Blacklist Channels**\
+  Specify channels where your shape will not interact.
+
+<figure><img src="../.gitbook/assets/Screenshot 2023-12-23 080654.png" alt=""><figcaption></figcaption></figure>
