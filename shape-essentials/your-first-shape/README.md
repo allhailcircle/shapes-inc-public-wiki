@@ -24,7 +24,7 @@ To create your very own Shape, follow the instructions below:
 2. Complete the form by providing a name and crafting a backstory for your Shape.
 3. Confirm your details and proceed by pressing **Add to Discord**
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-11-30 063714.png" alt=""><figcaption><p>If you need any help along the way, just let us know in our <a href="https://discord.gg/circlelabs">Support Server </a>or click on the chat button you see on <a href="https://shapes.inc/">shapes.inc</a>. 😊✨</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-11-30 063714.png" alt=""><figcaption><p>If you need any help along the way, just let us know in our <a href="https://discord.gg/shapes">Support Server</a> 😊✨</p></figcaption></figure>
 
 ### If you're logged in...
 

@@ -78,4 +78,4 @@ Reminder: Shapes' responses are AI generated content. If you want your Shape to 
 
 Additionally, memories will be formed over time, and will slowly influence Shape responses.
 
-<figure><img src=".gitbook/assets/Screenshot 2023-12-03 at 9.47.00 PM.png" alt=""><figcaption><p>If you need any help along the way, just let us know in our <a href="https://discord.gg/circlelabs">Support Server </a>or click on the chat button you see on <a href="https://shapes.inc/">shapes.inc</a>. 😊✨</p></figcaption></figure>
+<figure><img src=".gitbook/assets/Screenshot 2023-12-03 at 9.47.00 PM.png" alt=""><figcaption><p>If you need any help along the way, just let us know in our <a href="https://discord.gg/shapes">Support Server</a> 😊✨</p></figcaption></figure>

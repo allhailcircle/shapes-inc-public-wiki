@@ -1,7 +1,7 @@
 ---
-description: You can find the latest updates and bug fixes for Shapes on this page.
+description: You can find the latest updates and bug fixes for Shapes on discord.gg/shapes
 ---
 
 # Changelog
 
-:construction: under construction :construction:
+[<mark style="color:purple;">join our support server :)</mark> ](https://discord.gg/shapes)
