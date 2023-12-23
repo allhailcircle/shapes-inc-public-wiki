@@ -2,7 +2,7 @@
 description: >-
   Ever wonder what it would be like to talk to a cheese or a fish, a favorite
   anime character, or just make ur own cute little imaginary bestie? You can
-  now.
+  now...
 layout:
   title:
     visible: true
@@ -17,6 +17,8 @@ layout:
 ---
 
 # ⭐ Welcome to Shapes, Inc Manual
+
+
 
 {% hint style="info" %}
 Here you'll be able to access all the information you might need while creating your own custom Shape!
