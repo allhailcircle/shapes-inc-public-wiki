@@ -28,7 +28,7 @@
   * [Message Delivery](shape-essentials/frequently-asked-questions/message-delivery.md)
   * [Mobile Application](shape-essentials/frequently-asked-questions/mobile-application.md)
   * [Active Developer Badge](shape-essentials/frequently-asked-questions/active-developer-badge.md)
-  * [Undefiened id?](shape-essentials/frequently-asked-questions/undefiened-id.md)
+  * [Client id = Value "" isn't snowflake?](shape-essentials/frequently-asked-questions/client-id-value-isnt-snowflake.md)
 * [Changelog](shape-essentials/changelog.md)
 * [🚨 Guidelines & Privacy](shape-essentials/guidelines-and-privacy/README.md)
   * [Terms of Service](shape-essentials/guidelines-and-privacy/terms-of-service.md)

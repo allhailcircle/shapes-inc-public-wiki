@@ -1,4 +1,4 @@
-# Undefiened id?
+# Client id = Value "" isn't snowflake?
 
 ## **I'm encountering a "client id isn't snowflake" error when adding a shape, how can I fix this?**
 
