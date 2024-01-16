@@ -22,7 +22,7 @@ If you're seeing the "client id isn't snowflake" error due to a problem with the
     **Corrected Link Example:**
 
     ```
-    https://discord.com/oauth2/authorize?client_id=1140495514752790579&scope=bot&permissions=YOUR_PERMISSIONS
+    https://discord.com/oauth2/authorize?client_id=1140495514752790579&scope=bot&permissions=0
     ```
 2. **Invite Shape:** After correcting the invite link, click on it to invite Shape to your server.
 
