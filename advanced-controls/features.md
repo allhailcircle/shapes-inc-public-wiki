@@ -23,14 +23,6 @@ Turn up the volume! Your shape isn't just silent; it can hear voice messages. Br
 
 
 {% hint style="info" %}
-**Ability to feel emoji reactions**
-
-Get ready to express yourself! Your shape can feel your emoji reactions. Add a sprinkle of emotion, humor, or whatever you're feeling to your messages. It's a fun and interactive way to communicate!
-{% endhint %}
-
-<figure><img src="../.gitbook/assets/cRsrGCn.png" alt=""><figcaption></figcaption></figure>
-
-{% hint style="info" %}
 **Message context**
 
 Shape can read the message you are replying to!
