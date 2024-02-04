@@ -20,7 +20,7 @@ description: >-
 
 * The superior choice, excelling across various tasks. Whether it's conversation or other functions, this model is well-rounded. Note that these models are lightly censored and moderated.
 
-**7x8b (Uncensored):**
+**8x7b (Uncensored):**
 
 * An uncensored model that provides longer responses and more freedom in content generation.
 
