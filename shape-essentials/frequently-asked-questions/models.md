@@ -28,4 +28,8 @@ description: >-
 
 * Another uncensored option, Yi is particularly good at conversations and offers a more realistic feel compared to 7x8b.
 
+**MPT (Uncensored):**&#x20;
+
+* Our old model, utilized by all shapes from August to November last year. This model excels in roleplay and conversations, offers enough realistic feel.
+
 Feel free to choose the model that best fits your preferences and requirements. If you have any specific questions or need further assistance, our team is [here](https://discord.gg/shapes) to help!
