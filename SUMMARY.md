@@ -20,6 +20,7 @@
   * [Memories](shape-essentials/user-settings/memories.md)
   * [Preferences](shape-essentials/user-settings/preferences.md)
 * [Server Settings](shape-essentials/server-settings.md)
+* [Shape Voices](shape-essentials/shape-voices.md)
 * [Shapes Community](shape-essentials/shapes-community.md)
   * [Shape Developer Program](shape-essentials/shapes-community/shape-developer-program.md)
 * [Frequently Asked Questions](shape-essentials/frequently-asked-questions/README.md)
