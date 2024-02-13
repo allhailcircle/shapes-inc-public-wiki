@@ -4,6 +4,15 @@ description: Do you need certain IDs?
 
 # Developer Mode
 
+## How to get Message ID?
+
+Firstly, head over to your settings page in the discord app/site. Here you will want to locate the developer mod setting which can be found via **User Settings > Advanced.**
+
+<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+
+Next, find the message whose id you wish to get.\
+![](<../../.gitbook/assets/image (19).png>)
+
 ## How can I get my Shape's ID/a user ID?
 
 Firstly, head over to your settings page in the discord app/site. Here you will want to locate the developer mod setting which can be found via **User Settings > Advanced.**
