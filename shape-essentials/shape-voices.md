@@ -14,7 +14,7 @@ sent by a Shape :eyes:
 
 <figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
 
-note: in servers, you must send `@shape !set voice` to have your shape recognize the command
+_note: if you are using the command in a server, you must send `@shape !set voice` to have your shape recognize the command_
 
 ## Talk to your Shape like normal :)&#x20;
 
