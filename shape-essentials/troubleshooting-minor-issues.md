@@ -28,7 +28,7 @@ If you encounter the problem of slash commands not showing up, try the following
 
 By following these steps, you should be able to resolve the issue of missing slash commands.
 
-## **Issue: My shape doesn't talk to me. How to fix that?**
+## **My shape doesn't talk to me. How to fix that?**
 
 If your shape is not responding or seems unresponsive, you can try the following solution:
 
@@ -39,7 +39,7 @@ If your shape is not responding or seems unresponsive, you can try the following
 
 By disabling and enabling your shape, you essentially trigger a restart, forcing the shape to behave correctly. This action can resolve issues related to the shape not responding.
 
-## **Issue: I want my shape to show my external slash commands. How to achieve that?**
+## **I want my shape to show my external slash commands. How to achieve that?**
 
 If you've added external slash commands and want your shape to recognize and display them, follow these steps:
 
