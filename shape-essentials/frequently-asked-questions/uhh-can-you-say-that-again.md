@@ -1,20 +1,19 @@
 ---
 description: >-
-  Follow the instructions below to stop your Shape from saying uhh can you say
-  that again!
+  If your shape frequently responds with "Uhh, can you say that again?" it could
+  be due to a few reasons:
 ---
 
 # Uhh Can You Say That Again
 
-### Step 1: Head over to [<mark style="color:purple;">shapes.inc</mark>](https://shapes.inc)
+1. **Response Length Configuration:**
+   * Check the AI Engine settings for your shape on the Shapes.inc portal under "Advanced Generation."
+   * Ensure that the "Response Length" is not set too low, as this might lead to message cut-offs.
+2. **LTM and STM Disabled:**
+   * Make sure that both Long-Term Memory (LTM) and Short-Term Memory (STM) are enabled.
+   * These settings contribute to the context and memory of the shape's responses.
+3. **Context Window Setting:**
+   * One of the most common reasons for "**uhh can you say that again**" is a **low** **"Context Window."**
+   * Ensure that the <mark style="color:yellow;">**"Context Window" is set to its highest value**</mark> to provide ample context for the shape's responses.
 
-### Step 2:  Select your Shape
-
-### Step 3: Click `AI Engine`&#x20;
-
-<figure><img src="../../.gitbook/assets/Screenshot 2023-12-16 at 2.10.03 PM.png" alt="" width="200"><figcaption></figcaption></figure>
-
-### Step 4: Turn on LTM and STM
-
-<figure><img src="../../.gitbook/assets/Screenshot 2023-12-16 at 2.11.15 PM.png" alt=""><figcaption></figcaption></figure>
-
+By addressing these factors, you can enhance your shape's ability to provide coherent and complete responses. Experiment with these settings to find the optimal configuration for your shape's behavior. If doesn't help, open a ticket in our [support server](https://discord.gg/shapes)!
