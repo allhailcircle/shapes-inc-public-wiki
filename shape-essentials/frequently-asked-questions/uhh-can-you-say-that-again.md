@@ -15,5 +15,6 @@ description: >-
 3. **Context Window Setting:**
    * One of the most common reasons for "**uhh can you say that again**" is a **low** **"Context Window."**
    * Ensure that the <mark style="color:yellow;">**"Context Window" is set to its highest value**</mark> to provide ample context for the shape's responses.
+4. This can happen when personality page is completely filled out (and likely uses non-english words which consume more tokens). So be careful with that.
 
 By addressing these factors, you can enhance your shape's ability to provide coherent and complete responses. Experiment with these settings to find the optimal configuration for your shape's behavior. If doesn't help, open a ticket in our [support server](https://discord.gg/shapes)!
