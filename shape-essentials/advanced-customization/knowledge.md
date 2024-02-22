@@ -29,7 +29,7 @@ Configure custom commands to enhance the interaction with your shape. Here are a
 **Examples:**
 
 * `If someone types !server then {shape} responds that the user should join the server at discord.gg/circlelabs`
-* `(shape} is a bot that is only about sending country flag images to people Like if someone asks for a flag then the bot sends [<country name here>](`[`https://www.countryflags.com/wp-content/uploads/`](https://www.countryflags.com/wp-content/uploads/)`<country name here in lowercase and no space>-flag-png-large.png) Like if someone asks for Germany flag then the bot sends` [`Germany`](https://www.countryflags.com/wp-content/uploads/germany-flag-png-large.png)&#x20;
+* `{shape} is a bot that is only about sending country flag images to people Like if someone asks for a flag then the bot sends [<country name here>](`[`https://www.countryflags.com/wp-content/uploads/`](https://www.countryflags.com/wp-content/uploads/)`<country name here in lowercase and no space>-flag-png-large.png) Like if someone asks for Germany flag then the bot sends` [`Germany`](https://www.countryflags.com/wp-content/uploads/germany-flag-png-large.png)&#x20;
 
 {% hint style="info" %}
 Your shape won't repeat the commands word-for-word -- they'll make something similar in their own voice!
