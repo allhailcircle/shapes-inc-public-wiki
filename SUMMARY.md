@@ -22,7 +22,6 @@
   * [Preferences](shape-essentials/user-settings/preferences.md)
 * [Server Settings](shape-essentials/server-settings.md)
 * [Shapes Community](shape-essentials/shapes-community.md)
-  * [Shape Developer Program](shape-essentials/shapes-community/shape-developer-program.md)
 * [Frequently Asked Questions](shape-essentials/frequently-asked-questions/README.md)
   * [Models](shape-essentials/frequently-asked-questions/models.md)
   * [Developer Mode](shape-essentials/frequently-asked-questions/developer-mode.md)

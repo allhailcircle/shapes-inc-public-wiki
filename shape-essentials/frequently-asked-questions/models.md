@@ -32,4 +32,8 @@ description: >-
 
 * Our old model, utilized by all shapes from August to November last year. This model excels in roleplay and conversations, offers enough realistic feel.
 
+#### Mist
+
+* Good at recalling knowledge better, and overall being realistic.
+
 Feel free to choose the model that best fits your preferences and requirements. If you have any specific questions or need further assistance, our team is [here](https://discord.gg/shapes) to help!
