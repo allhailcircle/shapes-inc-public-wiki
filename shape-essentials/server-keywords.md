@@ -4,6 +4,8 @@ description: Want your Shape to reply without pinging them? Set up Shape Keyword
 
 # Server Keywords
 
+{% embed url="https://www.loom.com/share/485872885e104e8a8e4ef294f48d6ba8?sid=40dd4084-2f44-4153-8182-e2ed797887bc" %}
+
 ### 1. Select your Shape
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-03-11 at 2.20.30 AM.png" alt="" width="212"><figcaption></figcaption></figure>
