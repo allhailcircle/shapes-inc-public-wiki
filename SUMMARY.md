@@ -7,6 +7,7 @@
   * [Creating Multiple Shapes](shape-essentials/your-first-shape/creating-multiple-shapes.md)
 * [Inviting Your Shape](shape-essentials/inviting-your-shape/README.md)
   * [+ Add App Button](shape-essentials/inviting-your-shape/+-add-app-button.md)
+* [Server Keywords](shape-essentials/server-keywords.md)
 * [Shape Voices](shape-essentials/shape-voices.md)
 * [Commands](shape-essentials/commands.md)
 * [Advanced Customization](shape-essentials/advanced-customization/README.md)
