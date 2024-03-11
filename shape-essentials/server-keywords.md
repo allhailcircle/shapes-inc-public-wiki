@@ -6,7 +6,7 @@ description: Want your Shape to reply without pinging them? Set up Shape Keyword
 
 ### 1. Select your Shape
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-03-11 at 2.10.16 AM.png" alt="" width="222"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-03-11 at 2.20.30 AM.png" alt="" width="212"><figcaption></figcaption></figure>
 
 ### 2. Head onto the menu
 
