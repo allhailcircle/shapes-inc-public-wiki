@@ -26,7 +26,7 @@ Here you'll be able to access all the information you might need while creating 
 
 Located on the left, there is a table of contents which you can browse to find guides you need. Select the section you wish to see and click it. This will walk you through step-by-step with and screenshots.
 
-<figure><picture><source srcset=".gitbook/assets/image (1) (1).png" media="(prefers-color-scheme: dark)"><img src=".gitbook/assets/image (1) (1).png" alt=""></picture><figcaption></figcaption></figure>
+<figure><picture><source srcset=".gitbook/assets/image (1) (1) (1).png" media="(prefers-color-scheme: dark)"><img src=".gitbook/assets/image (1) (1) (1).png" alt=""></picture><figcaption></figcaption></figure>
 
 ## About Us
 

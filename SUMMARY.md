@@ -24,6 +24,7 @@
 * [Server Settings](shape-essentials/server-settings.md)
 * [Shapes Community](shape-essentials/shapes-community.md)
 * [Frequently Asked Questions](shape-essentials/frequently-asked-questions/README.md)
+  * [Deleting a message from memory](shape-essentials/frequently-asked-questions/deleting-a-message-from-memory.md)
   * [Models](shape-essentials/frequently-asked-questions/models.md)
   * [Developer Mode](shape-essentials/frequently-asked-questions/developer-mode.md)
   * [Uhh Can You Say That Again](shape-essentials/frequently-asked-questions/uhh-can-you-say-that-again.md)
