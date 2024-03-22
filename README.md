@@ -71,7 +71,7 @@ There are four things that influence how a Shape responds:&#x20;
 1. Your Shape's [<mark style="color:purple;">Personality</mark>](shape-essentials/advanced-customization/) (what much of this guide will explain)
 2. Your Shape's [<mark style="color:purple;">Knowledge and Training</mark>](shape-essentials/advanced-customization/)
 3. Your Shape's [<mark style="color:purple;">AI Engine</mark>](shape-essentials/advanced-customization/) Settings
-4. Your [<mark style="color:purple;">User Profile</mark>](shape-essentials/user-settings/) containing details and preferences about yourself
+4. Your [<mark style="color:purple;">User Profile</mark>](shape-essentials/user-settings.md) containing details and preferences about yourself
 5. The context of the current conversation
 
 {% hint style="warning" %}

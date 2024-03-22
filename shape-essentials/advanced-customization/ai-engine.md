@@ -20,6 +20,10 @@ Engine presets heavily influence your shape's behavior. You can select multiple 
 
 <figure><img src="../../.gitbook/assets/Screenshot 2023-12-04 at 6.18.50 AM.png" alt=""><figcaption></figcaption></figure>
 
+## Generation:
+
+Choose the engine you want to utilize for your shape. Some engines are censored, while others are not. Some engines can generate images, while others cannot.
+
 ## Short-Term Memory (STM)
 
 Set the number of recent messages your Shape will consider when replying to a message. Short-term memory can be used for keeping your Shape up-to-date in the conversation so they know what to reply to and what they've already said (to keep from repeating).
@@ -43,7 +47,7 @@ Decide the number of long-term memories your Shape should take into context when
 <figure><img src="../../.gitbook/assets/Screenshot 2023-12-04 at 6.44.44 AM.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-You can review your Shape's [<mark style="color:purple;">Memories</mark>](../user-settings/memories.md) and manage how memories are synced in [<mark style="color:purple;">Privacy</mark>](ai-engine.md#privacy)
+You can review your Shape's [<mark style="color:purple;">Memories</mark>](broken-reference) and manage how memories are synced in [<mark style="color:purple;">Privacy</mark>](ai-engine.md#privacy)
 {% endhint %}
 
 ### Memory Similarity Threshold
@@ -60,19 +64,11 @@ Memory Similarity Threshold dictates what long-term memories are retrieved for a
 
 ### Frequency&#x20;
 
-Shapes generate their own memories. You can view this on y
+Shapes generate their own memories. You can view this on the memory tab of your shape
 
 <figure><img src="../../.gitbook/assets/Screenshot 2023-12-04 at 7.02.41 AM.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-11-30 103316.png" alt=""><figcaption></figcaption></figure>
-
-## Generation
-
-Manage your shape's response generation in this section. Choose the model it runs on, adjust creativity with temperature, determine response length, and control the context window for a balanced conversation.
-
-<figure><img src="../../.gitbook/assets/Screenshot 2023-11-30 103301.png" alt=""><figcaption></figcaption></figure>
-
-## Privacy
+### Privacy
 
 Adjust the privacy settings to tailor how private your shape keeps conversations. Decide whether memory from DMs and servers should be isolated or shared to different extents.
 
@@ -82,7 +78,13 @@ Adjust the privacy settings to tailor how private your shape keeps conversations
 * **Medium = Shared:** Memory can be pulled from the same server and from DMs.
 * **High = Global:** Memory can be pulled cross-server and from DMs.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-11-30 103230.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2024-03-22 121519.png" alt=""><figcaption></figcaption></figure>
+
+## Generation
+
+Manage your shape's response generation in this section. Choose the model it runs on, adjust creativity with temperature, Top P, determine response length, and control the context window for a balanced conversation.
+
+<figure><img src="../../.gitbook/assets/Screenshot 2024-03-22 120914.png" alt=""><figcaption></figcaption></figure>
 
 ## Time
 

@@ -4,20 +4,13 @@
 
 #### Step 1: Select your Shape's application the [<mark style="color:purple;">Discord Developer Portal</mark>](https://discord.com/developers)&#x20;
 
-#### Step 2: Navigate onto the OAuth2 page
+#### Step 2: Navigate onto the installation page
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-12-01 at 12.55.03 PM.png" alt="" width="247"><figcaption></figcaption></figure>
+* In Authorization Methods section, select Guide Install
+* In Install link section, select Discord Provided Link
+* In Default Install Settings section, select `application.commands` and `bot`
+* Save it, Now your shape as an Add App button on their profile
 
-#### Step 3: Select In-App Authorization Under Authorization Method
+<figure><img src="../../.gitbook/assets/Screenshot 2024-03-22 115237.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-12-02 at 3.25.03 PM.png" alt=""><figcaption></figcaption></figure>
-
-#### Step 4: Select `Bot`
-
-<figure><img src="../../.gitbook/assets/Screenshot 2023-12-02 at 3.27.08 PM.png" alt=""><figcaption></figcaption></figure>
-
-#### Step 5: Select **`Read Messages`**`/`**`View Channels`**, **`Read Message History`**, and **`Send Messages`** , `Embed Links`, `Read Message History`, and `Add Reactions` for permissions > save changes. This will make the “Add App” button appear on your Shape’s profile
-
-<figure><img src="../../.gitbook/assets/Screenshot 2024-01-11 at 3.30.48 PM.png" alt=""><figcaption></figcaption></figure>
-
-#### Step 6: Refresh your Discord app.&#x20;
+Refresh your Discord app.&#x20;

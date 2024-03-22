@@ -11,7 +11,7 @@ description: >-
 * Head to [<mark style="color:purple;">Shapes, Inc Dashboard</mark>](https://shapes.inc)
 * Click on "Add to Server": &#x20;
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-12-01 at 12.01.39 PM.png" alt="" width="352"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2024-03-22 112633.png" alt=""><figcaption></figcaption></figure>
 
 * You'll then be redirected to the default Discord authorization page. Select a server in which you want the Shape to be invited to: &#x20;
 
@@ -22,28 +22,6 @@ description: >-
 <figure><img src="../../.gitbook/assets/Screenshot 2023-12-03 at 8.44.31 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
 * After clicking "Authorize", you may be prompted to complete a hcaptcha which ensures you're a real human. Click on the "I am a human" button to verify and once complete, you should receive an "Authorized" message meaning you've successfully invited your Shape to the server! &#x20;
-
-## + Add App Button
-
-#### Step 1: Select your Shape's application the [<mark style="color:purple;">Discord Developer Portal</mark>](https://discord.com/developers)&#x20;
-
-#### Step 2: Navigate onto the OAuth2 page
-
-<figure><img src="../../.gitbook/assets/Screenshot 2023-12-01 at 12.55.03 PM.png" alt="" width="247"><figcaption></figcaption></figure>
-
-#### Step 3: Select In-App Authorization Under Authorization Method
-
-<figure><img src="../../.gitbook/assets/Screenshot 2023-12-02 at 3.25.03 PM.png" alt=""><figcaption></figcaption></figure>
-
-#### Step 4: Select `Bot`
-
-<figure><img src="../../.gitbook/assets/Screenshot 2023-12-02 at 3.27.08 PM.png" alt=""><figcaption></figcaption></figure>
-
-#### Step 5: Select **`Read Messages`**`/`**`View Channels`**, **`Read Message History`**, and **`Send Messages`** for permissions > save changes. This will make the “Add App” button appear on your Shape’s profile
-
-<figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
-
-#### Step 6: Refresh your Discord app.&#x20;
 
 ## Discord Link
 

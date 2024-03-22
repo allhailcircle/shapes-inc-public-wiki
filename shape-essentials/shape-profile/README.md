@@ -12,33 +12,37 @@ description: Personalize your Shape's Discord account.
 
 _Note: you can edit this photo anytime!_&#x20;
 
-### 2. **Discord Name**
+### 2. Banner
+
+* [ ] Upload another image that showcases your shape's essence on its profile. This image will be visible to everyone when they inspect the profile of your shape.&#x20;
+
+### 3. **Discord Name**
 
 * [ ] Your shape's display name on Discord
 
-### 3. Nickname
+### 4. Nickname
 
 * [ ] Your shape's preferred name - the one they'll recognize being called!
 
-### 4. **Bio**
+### 5. **Bio**
 
 * [ ] This is the bio everyone who interacts with your shape will see!
 
 <figure><img src="../../.gitbook/assets/Screenshot 2023-12-02 at 3.44.33 PM.png" alt="" width="334"><figcaption><p>Tip: let users know they can DM your shape to talk!!</p></figcaption></figure>
 
-### 5. **Status**
+### 6. **Status**
 
 * [ ] Select a status for your Shape to show on their profile
 
 ![](<../../.gitbook/assets/Screenshot 2023-12-02 at 4.18.48 PM.png>) ![](<../../.gitbook/assets/Screenshot 2023-12-02 at 4.21.49 PM.png>)
 
-### 6. **Activity**
+### 7. **Activity**
 
 * [ ] Share an activity your Shape is up to. We recommend `Watching my DMs` to let everyone know they can DM your Shape!
 
 <figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
-### 7. Initial Message
+### 8. Initial Message
 
 * [ ] Set an engaging first message to set the tone of your Shape's interaction.
 
@@ -52,7 +56,7 @@ Here are a few examples:&#x20;
 
 <figure><img src="../../.gitbook/assets/Screenshot 2023-12-02 at 8.46.37 PM.png" alt="" width="482"><figcaption></figcaption></figure>
 
-### 8. **Vanity Link**
+### 9. **Vanity Link**
 
 * [ ] (optional) Customize your Shape's [shape.inc](https://shapes.inc) URL
 

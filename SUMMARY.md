@@ -18,9 +18,7 @@
   * [Training](shape-essentials/advanced-customization/training.md)
   * [AI Engine](shape-essentials/advanced-customization/ai-engine.md)
 * [General Settings](shape-essentials/general-settings.md)
-* [User Settings](shape-essentials/user-settings/README.md)
-  * [Memories](shape-essentials/user-settings/memories.md)
-  * [Preferences](shape-essentials/user-settings/preferences.md)
+* [User Settings](shape-essentials/user-settings.md)
 * [Server Settings](shape-essentials/server-settings.md)
 * [Shapes Community](shape-essentials/shapes-community.md)
 * [Frequently Asked Questions](shape-essentials/frequently-asked-questions/README.md)
@@ -43,7 +41,6 @@
 ## ADVANCED CONTROLS
 
 * [Features](advanced-controls/features.md)
-* [Gifting Shapes](advanced-controls/gifting-shapes.md)
 
 ## Links
 
