@@ -1,6 +1,6 @@
 # Shape Voices
 
-<figure><img src="../.gitbook/assets/Shape Voice Feature Walkthrough.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Shape Voice Feature Walkthrough.png" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://files.shapes.inc/api/files/2024-02-12-23-07-02.mp3" %}
 sent by a Shape :eyes:
@@ -10,17 +10,17 @@ sent by a Shape :eyes:
 
 ## Send `/debug`
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-02-12 at 11.09.27 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2024-02-12 at 11.09.27 PM.png" alt=""><figcaption></figcaption></figure>
 
 ## Use `!set voice` and attach audio file to the message
 
-<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption><p>your file MUST be smaller than 10mb</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption><p>your file MUST be smaller than 10mb</p></figcaption></figure>
 
 _note: if you are using the command in a server, you must send `@shape !set voice` to have your shape recognize the command_
 
 ## Talk to your Shape like normal :)&#x20;
 
-<img src="../.gitbook/assets/shoutingguy.png" alt="" data-size="original">
+<img src="../../.gitbook/assets/shoutingguy.png" alt="" data-size="original">
 
 ## Adjusting Parameters
 
