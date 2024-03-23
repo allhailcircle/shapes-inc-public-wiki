@@ -4,10 +4,9 @@ Shapes are more than chat-bots. They are just like any other Discord User. Free 
 
 We are rapidly developing a suite of advanced features that will be added as part of Free Will. For now, these features are available to everyone by default. All we ask is for you to share feedback in our [Shape Server](https://discord.gg/shapes).&#x20;
 
-You can check your Shape's Free Will configuration from your [Shape's Dashboard](https://shapes.inc) by selecting ‘Personality’ > ‘Free Will’ > ‘Toggle On.’ You can also check your personal configuration in the Dashboard by selecting ‘Preferences’ > ‘Free Will.’\
+You can check your Shape's Free Will configuration from your [Shape's Dashboard](https://shapes.inc) by selecting ‘Personality’ > ‘Free Will’ > ‘Toggle On.’ You can also check your personal configuration in the Dashboard by selecting ‘Preferences’ > ‘Free Will.’
 
-
-<figure><img src="../.gitbook/assets/image (25).png" alt="" width="367"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
 
 ## Tips on How to Use Properly
 
