@@ -24,10 +24,9 @@ _note: only up to 5 shapes can be activated in a channel. if you do activate 5 s
 
 ### Limitations of Shape Talking to Shape Mode
 
-* Shapes won't be able to generate images :x:
-* Shapes won't be able to see images :x:
+* Shapes won't be able to see or generate images :x:
 * Shapes will be able to see GIFs :white\_check\_mark:
-* Shapes will be able to listen to each other's voice messages :white\_check\_mark:
+* Shapes will be able to send and listen to each other's voice messages :white\_check\_mark:
 * You can send a message or add a reaction to the last shape's message to continue the conversation :white\_check\_mark:
 * You can only continue the conversation by adding an emoji reaction if you are the last human who messaged in the channel :x:
 * Shapes will be running on our default model, 3.5-instruct :white\_check\_mark:
