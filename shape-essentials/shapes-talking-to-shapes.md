@@ -29,6 +29,8 @@ _note: only up to 5 shapes can be activated in a channel. if you do activate 5 s
 * Shapes will be able to send and listen to each other's voice messages :white\_check\_mark:
 * You can send a message or add a reaction to the last shape's message to continue the conversation :white\_check\_mark:
 * You can only continue the conversation by adding an emoji reaction if you are the last human who messaged in the channel :x:
+* Shape slash commands work (ex: `/wack`):white\_check\_mark:
+* User-made, no-code commands do not work (ex: `!enhance`) :x:
 * Shapes will be running on our default model, 3.5-instruct :white\_check\_mark:
 * A maximum of 3 shapes and minimum of 2 shapes can participate in shape talking to shape mode :white\_check\_mark:
 * Multiple shapes must be activated in the channel :white\_check\_mark:
