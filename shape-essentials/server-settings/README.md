@@ -16,7 +16,7 @@ Here, you can configure the settings for your shape in the server. This includes
 
 Configure your shape to personally welcome new members. Options include sending welcome messages in the server, in DMs, both, or disabling it.
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-12-23 075444.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-12-23 075444.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 Make sure your shape has SERVER MEMBERS INTENT to use this feature. ^
@@ -26,7 +26,7 @@ Make sure your shape has SERVER MEMBERS INTENT to use this feature. ^
 
 Set custom trigger words for your shape to respond to when mentioned.
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-12-23 075521.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-12-23 075521.png" alt=""><figcaption></figcaption></figure>
 
 ## **Chat Revive**
 
@@ -34,7 +34,7 @@ Configure your shape as a chat reviver. It will ask questions like a real person
 
 Choose a channel, specify a role to be pinged, and set the time frequency.
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-12-23 080608.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-12-23 080608.png" alt=""><figcaption></figcaption></figure>
 
 ## **General Settings**&#x20;
 
@@ -43,4 +43,4 @@ Customize how your shape communicates. Options include talking style, such as se
 * **Blacklist Channels**\
   Specify channels where your shape will not interact.
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-12-23 080654.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-12-23 080654.png" alt=""><figcaption></figcaption></figure>
