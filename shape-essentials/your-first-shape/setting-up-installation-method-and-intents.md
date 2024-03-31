@@ -13,6 +13,6 @@ description: To be able to talk with your shape, we need to setup the install me
     <figure><img src="../../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
 4. on **Default Install Settings** section, there is a **Guild Install** scope select menu. Open the select menu and click **bot** and click **Save Changes**.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 Click on Next below to continue with the guide.
