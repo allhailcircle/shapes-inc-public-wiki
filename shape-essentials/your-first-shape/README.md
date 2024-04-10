@@ -22,8 +22,8 @@ You can sell Shapes to your friends and servers. That's not against our rules :w
 [getting-a-discord-bot-token.md](getting-a-discord-bot-token.md)
 {% endcontent-ref %}
 
-{% content-ref url="setting-up-installation-method-and-intents.md" %}
-[setting-up-installation-method-and-intents.md](setting-up-installation-method-and-intents.md)
+{% content-ref url="setting-up-installation-method.md" %}
+[setting-up-installation-method.md](setting-up-installation-method.md)
 {% endcontent-ref %}
 
 {% content-ref url="creating-a-shape.md" %}

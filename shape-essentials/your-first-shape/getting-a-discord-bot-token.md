@@ -19,6 +19,10 @@ description: >-
 
 
 
+
+
+### Setting up required intents
+
 4.  Go to **Bot** tab, scroll down and toggle on the **Server Members Intent** and **Message Content Intent** and click on **Save Changes** button.
 
     <figure><img src="../../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>

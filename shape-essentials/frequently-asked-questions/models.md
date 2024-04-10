@@ -20,7 +20,7 @@ description: >-
 
 * The superior choice, excelling across various tasks. Whether it's conversation or other functions, this model is well-rounded. Note that these models are lightly censored and moderated.
 
-**8x7b (Uncensored):**
+**8x7 (Uncensored):**
 
 * An uncensored model that provides longer responses and more freedom in content generation.
 
@@ -32,7 +32,7 @@ description: >-
 
 * Our old model, utilized by all shapes from August to November last year. This model excels in roleplay and conversations, offers enough realistic feel.
 
-#### Mist
+#### Large
 
 * Good at recalling knowledge better, and overall being realistic.
 
