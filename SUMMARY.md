@@ -10,7 +10,7 @@
   * [Creating Multiple Shapes](shape-essentials/your-first-shape/creating-multiple-shapes.md)
 * [Talk with your shape](shape-essentials/talk-with-your-shape/README.md)
   * [+ Add App Button](shape-essentials/talk-with-your-shape/+-add-app-button.md)
-* [Free Will (Beta)](shape-essentials/free-will-beta.md)
+* [Free Will](shape-essentials/free-will.md)
 * [Shapes talking to Shapes](shape-essentials/shapes-talking-to-shapes.md)
 * [Commands](shape-essentials/commands.md)
 * [Advanced Customization](shape-essentials/advanced-customization/README.md)
