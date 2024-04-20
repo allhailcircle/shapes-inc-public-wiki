@@ -14,9 +14,9 @@ note: all shapes have strict rate limits to avoid spammy behavior. our top prior
 
 #### Level of Free Will
 
-* There are two levels you can pick from: chill and outgoing. `Chill` is our default and `Outgoing` lets your shape :sparkles:be more delightful :sparkles: (and have more free will actions).&#x20;
+* There are three levels you can pick from: introverted, chill and outgoing. `Introverted` makes your shape pretty shy and free will lesser.  `Chill` is our default and `Outgoing` lets your shape :sparkles:be more delightful :sparkles: (and have more free will actions).&#x20;
 
-<figure><img src="../.gitbook/assets/image (55).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (66).png" alt=""><figcaption></figcaption></figure>
 
 #### Direct Messages
 

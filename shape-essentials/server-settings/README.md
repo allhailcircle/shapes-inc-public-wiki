@@ -41,6 +41,13 @@ Choose a channel, specify a role to be pinged, and set the time frequency.
 Customize how your shape communicates. Options include talking style, such as sending a new message when replying, pinging the user with a new message, replying to user's messages, and more.
 
 * **Blacklist Channels**\
-  Specify channels where your shape will not interact.
+  Specify channels where your shape will not be able to interact.
+*   Whitelist Channels
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-12-23 080654.png" alt=""><figcaption></figcaption></figure>
+    Specify the only channels where your shape will be able to interact.
+*   Server Free Will
+
+    Configure Free Will setting of your server.
+
+<figure><img src="../../.gitbook/assets/image (67).png" alt=""><figcaption></figcaption></figure>
+
