@@ -20,20 +20,12 @@ description: >-
 
 * The superior choice, excelling across various tasks. Whether it's conversation or other functions, this model is well-rounded. Note that these models are lightly censored and moderated.
 
-**8x7 (Uncensored):**
+**8x22 (Uncensored):**
 
-* An uncensored model that provides longer responses and more freedom in content generation.
+* An upgraded version of 8x7 uncensored model that provides longer responses and more freedom in content generation, better and faster!
 
-**Yi (Uncensored):**
+**Llama 3 Instruct:**&#x20;
 
-* Another uncensored option, Yi is particularly good at conversations and offers a more realistic feel compared to 7x8b.
-
-**MPT (Uncensored):**&#x20;
-
-* Our old model, utilized by all shapes from August to November last year. This model excels in roleplay and conversations, offers enough realistic feel.
-
-#### Large
-
-* Good at recalling knowledge better, and overall being realistic.
+* Introducing Llama! Fast response, strictly following training. This model is good in roleplay, oc characters.
 
 Feel free to choose the model that best fits your preferences and requirements. If you have any specific questions or need further assistance, our team is [here](https://discord.gg/shapes) to help!

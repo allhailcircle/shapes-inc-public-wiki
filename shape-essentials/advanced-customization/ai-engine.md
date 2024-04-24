@@ -20,9 +20,21 @@ Engine presets heavily influence your shape's behavior. You can select multiple 
 
 <figure><img src="../../.gitbook/assets/Screenshot 2023-12-04 at 6.18.50 AM.png" alt=""><figcaption></figcaption></figure>
 
-## Generation:
+## Generation
 
 Choose the engine you want to utilize for your shape. Some engines are censored, while others are not. Some engines can generate images, while others cannot.
+
+### AI Model
+
+There are 5 AI Engine Models you can use. `llama 3 instruct`, `3.5 instruct`, `4`, `8x22` and `3.5`. Learn more about their differences and capabilities on [this page](../frequently-asked-questions/models.md).
+
+<figure><img src="../../.gitbook/assets/image.png" alt="" width="240"><figcaption></figcaption></figure>
+
+### Image Generation
+
+To be able to toggle on Image Generation, you need to switch your AI Model to Engine `3.5` or `4`. After enabling this feature, you can now ask your shape to generate images!
+
+<figure><img src="../../.gitbook/assets/image (1).png" alt="" width="255"><figcaption></figcaption></figure>
 
 ## Short-Term Memory (STM)
 
@@ -47,7 +59,7 @@ Decide the number of long-term memories your Shape should take into context when
 <figure><img src="../../.gitbook/assets/Screenshot 2023-12-04 at 6.44.44 AM.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-You can review your Shape's [<mark style="color:purple;">Memories</mark>](broken-reference) and manage how memories are synced in [<mark style="color:purple;">Privacy</mark>](ai-engine.md#privacy)
+You can review your Shape's Memories and manage how memories are synced in [<mark style="color:purple;">Privacy</mark>](ai-engine.md#privacy)
 {% endhint %}
 
 ### Memory Similarity Threshold
@@ -60,7 +72,7 @@ Memory Similarity Threshold dictates what long-term memories are retrieved for a
 
 :factory: We recommend setting your Memory Similarity Threshold at 0.8
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-12-04 at 7.00.03 AM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 ### Frequency&#x20;
 
@@ -76,9 +88,8 @@ Adjust the privacy settings to tailor how private your shape keeps conversations
 
 * **Low = Private:** Memories from DMs and servers are isolated from each other.
 * **Medium = Shared:** Memory can be pulled from the same server and from DMs.
-* **High = Global:** Memory can be pulled cross-server and from DMs.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2024-03-22 121519.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 ## Generation
 
@@ -86,10 +97,26 @@ Manage your shape's response generation in this section. Choose the model it run
 
 <figure><img src="../../.gitbook/assets/Screenshot 2024-03-22 120914.png" alt=""><figcaption></figcaption></figure>
 
+## Knowledge
+
+Knowledge Similiarity Threshold controls how much does your shape recalls knowledge and put it into generation. To make the shape remember knowledge better, we recommend you to put it on `0.3 - 0.5` and make sure to `/wack` command after updating the knowledge of your shape.
+
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+
 ## Time
 
-In this section, decide whether your shape should be aware of the current time (PST) or operate in a timeless context.
+In this section, decide whether your shape should be aware of the current time with the timezone you selected.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-11-30 103219.png" alt=""><figcaption></figcaption></figure>
+<div data-full-width="true">
+
+<figure><img src="../../.gitbook/assets/Screenshot 2024-04-24 082122.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+<div data-full-width="true">
+
+<figure><img src="../../.gitbook/assets/Screenshot 2024-04-24 082051.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 Remember to save your changes after configuring each section to ensure your shape reflects your desired settings. With this level of control, your shape is ready to adapt to your preferences seamlessly! 🔧🤖✨

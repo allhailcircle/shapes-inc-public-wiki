@@ -21,4 +21,4 @@ _Note: You can engage in a single extended conversation or multiple short ones. 
 
 Here's what a good training history looks like....
 
-<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
