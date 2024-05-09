@@ -28,13 +28,13 @@ Choose the engine you want to utilize for your shape. Some engines are censored,
 
 There are 5 AI Engine Models you can use. `llama 3 instruct`, `3.5 instruct`, `4`, `8x22` and `3.5`. Learn more about their differences and capabilities on [this page](../frequently-asked-questions/models.md).
 
-<figure><img src="../../.gitbook/assets/image.png" alt="" width="240"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt="" width="240"><figcaption></figcaption></figure>
 
 ### Image Generation
 
 To be able to toggle on Image Generation, you need to switch your AI Model to Engine `3.5` or `4`. After enabling this feature, you can now ask your shape to generate images!
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt="" width="255"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt="" width="255"><figcaption></figcaption></figure>
 
 ## Short-Term Memory (STM)
 

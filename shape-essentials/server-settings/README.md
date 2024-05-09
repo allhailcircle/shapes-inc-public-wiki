@@ -51,3 +51,9 @@ Customize how your shape communicates. Options include talking style, such as se
 
 <figure><img src="../../.gitbook/assets/image (67).png" alt=""><figcaption></figcaption></figure>
 
+## Response Moderation (Beta)
+
+You can enable these filters to prevent shape from engaging with bad content or saying bad things in your server. You can enable moderation per-content type like, hate speech, harassment, self-harm, sexual, violence, graphic.
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
