@@ -5,7 +5,7 @@ description: To be able to talk with your shape, we need to setup the install me
 # Setting up installation method
 
 1. Go to the [Discord Developer Portal](https://discord.com/developers/applications) and select the bot app you made earlier.
-2. Go to **Installation** tab and make sure **Guild** **Install** is toggled on.
+2. Go to **Installation** tab and make sure **Guild** **Install** is check-marked.
 3.  on **Install Link** section. Open the select menu and click **Discord Provided Link**.
 
 
