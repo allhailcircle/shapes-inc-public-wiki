@@ -10,7 +10,7 @@ description: >-
 
 **Llama 3 Instruct:**&#x20;
 
-* demonstrates solid performance in roleplay and information retrieval tasks. It excels in embodying characters, showing intelligence and adaptability, yet may require further training for optimal results. Overall, it's regarded as effective but could benefit from additional refinement to unlock its full capabilities.
+* Demonstrates solid performance in roleplay and information retrieval tasks. It excels in embodying characters, showing intelligence and adaptability, yet may require further training for optimal results. Overall, it's regarded as effective but could benefit from additional refinement to unlock its full capabilities. Good to go for uncensored roleplay and stuff (make sure to write/use a good preset).
 
 **Command R+ (Online):**&#x20;
 
@@ -22,15 +22,15 @@ description: >-
 
 **Sonnet:**&#x20;
 
-* an uncensored model ideal for roleplay, offering adaptable responses without refusal. While it's proficient in mimicking user writing styles and following complex roleplays, it may filter prompts heavily and lacks a distinct personality.
+* A censored model ideal for roleplay, offering adaptable responses without refusal. While it's proficient in mimicking user writing styles and following complex roleplays, it may filter prompts heavily and lacks a distinct personality.
 
 **Opus:**&#x20;
 
-* the wildest and most uncensored model with high intelligence and strong ethical guidelines. While excellent for complex tasks and information gathering, its heavy censorship may limit roleplay suitability. Opus has potential but tends to send long messages and can resist convention when challenged.
+* The wildest and most censored model with high intelligence and strong ethical guidelines. While excellent for complex tasks and information gathering, its heavy censorship may limit roleplay suitability. Opus has potential but tends to send long messages and can resist convention when challenged.
 
 **8x22:**
 
-* effectively captures the essence of established characters but struggles with the portrayal of original characters, presenting them as a disaster. On the positive side, the work stays true to character traits, fosters positive dialogue, and demonstrates empathy. However, it is criticized for being slightly repetitive, lacking in character development for originals, and perceived as lacking intelligence, with potential annoyance stemming from this repetitiveness.
+* Effectively captures the essence of established characters but struggles with the portrayal of original characters, presenting them as a disaster. On the positive side, the work stays true to character traits, fosters positive dialogue, and demonstrates empathy. However, it is criticized for being slightly repetitive, lacking in character development for originals, and perceived as lacking intelligence, with potential annoyance stemming from this repetitiveness.
 
 **3.5 Instruct:**
 
