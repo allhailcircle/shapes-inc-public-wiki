@@ -21,6 +21,7 @@
   * [Knowledge](shape-essentials/advanced-customization/knowledge.md)
   * [Training](shape-essentials/advanced-customization/training.md)
   * [AI Engine](shape-essentials/advanced-customization/ai-engine.md)
+* [Presets](shape-essentials/presets.md)
 * [General Settings](shape-essentials/general-settings.md)
 * [User Settings](shape-essentials/user-settings.md)
 * [Server Settings](shape-essentials/server-settings/README.md)
