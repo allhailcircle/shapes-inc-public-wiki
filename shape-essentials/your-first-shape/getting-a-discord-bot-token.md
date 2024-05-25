@@ -23,9 +23,9 @@ description: >-
 
 ### Setting up required intents
 
-4.  Go to **Bot** tab, scroll down and toggle on the **Server Members Intent** and **Message Content Intent** and click on **Save Changes** button.
+4.  Go to **Bot** tab, scroll down and toggle on the **Presence Intent**,  **Server Members Intent,** and **Message Content Intent.** Click on **Save Changes** button.&#x20;
 
-    <figure><img src="../../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/Screenshot 2024-05-25 at 1.52.01 PM.png" alt=""><figcaption></figcaption></figure>
 5.  On top of the **Bot** page, in **TOKEN** section. Click on **Reset Token.**
 
     <figure><img src="../../.gitbook/assets/Screenshot 2024-03-24 101813.png" alt=""><figcaption></figcaption></figure>
