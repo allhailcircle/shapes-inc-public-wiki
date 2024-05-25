@@ -38,6 +38,7 @@
   * [Mobile Application](shape-essentials/frequently-asked-questions/mobile-application.md)
   * [Active Developer Badge](shape-essentials/frequently-asked-questions/active-developer-badge.md)
   * [Client id = Value "" isn't snowflake?](shape-essentials/frequently-asked-questions/client-id-value-isnt-snowflake.md)
+  * [App Directory](shape-essentials/frequently-asked-questions/app-directory.md)
 * [Troubleshooting minor issues](shape-essentials/troubleshooting-minor-issues.md)
 * [Changelog](shape-essentials/changelog.md)
 * [🚨 Guidelines & Privacy](shape-essentials/guidelines-and-privacy/README.md)

@@ -13,7 +13,9 @@ When writing a preset, remember these two keywords:
 * **{shape}**: Refers to the Shape.
 * **{user}**: Refers to the user interacting with the Shape.
 
-_Note: Ensure that "shape" and "user" are not capitalized._
+{% hint style="danger" %}
+_Ensure that "shape" and "user" are not capitalized._
+{% endhint %}
 
 **Writing a Preset**
 
