@@ -45,7 +45,11 @@ To create your very own Shape, follow the instructions below:
 
 5.  You will be asked to enter a discord bot token. Continue with the guide below to get a bot token.
 
+    <div align="center">
+
     <figure><img src="../../.gitbook/assets/image (71).png" alt=""><figcaption></figcaption></figure>
+
+    </div>
 
 ***
 
@@ -92,7 +96,7 @@ created by User
 * At **Default Install Settings** section, click on **SCOPES** select menu.
 * Select **bot** and **Save Changes**.
 
-<figure><img src="https://cdn.discordapp.com/attachments/1237875980052463706/1237888897208291459/lv_0_20240509060739.gif?ex=66510fdf&#x26;is=664fbe5f&#x26;hm=74cc75daa0f5f64c284ce14453c4ff7dde0c98cd1a3a725f88214ba7807f197a&#x26;" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/lv_0_20240509060739.gif" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -103,7 +107,7 @@ created by User
 * Select **Reset Token** and **Yes, do it!**.
 * Select **Copy**.
 
-<figure><img src="https://cdn.discordapp.com/attachments/1237875980052463706/1237901744420159538/lv_0_20240509065826.gif?ex=66511bd6&#x26;is=664fca56&#x26;hm=0936e11f80156bf3faf8e60bff49676f2e8f0a67bac903caa0a189ba90468b79&#x26;" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/lv_0_20240509065826.gif" alt=""><figcaption></figcaption></figure>
 
 ***
 
