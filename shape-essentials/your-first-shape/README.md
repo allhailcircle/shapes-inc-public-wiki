@@ -76,7 +76,7 @@ After creating a bot app, you will be directed to **General Information** tab.
 **Failure to comply will lead to shape termination.**
 {% endhint %}
 
-<figure><img src="https://cdn.discordapp.com/attachments/1237875980052463706/1237885270565589082/lv_0_20240509055319.gif?ex=66510c7f&#x26;is=664fbaff&#x26;hm=c9f5da17b7a361c9b0b4d60dfcf42b0633277dcb1fd73ac50c385e0fa05ee671&#x26;" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/lv_0_20240509055319.gif" alt=""><figcaption></figcaption></figure>
 
 {% code fullWidth="false" %}
 ```
