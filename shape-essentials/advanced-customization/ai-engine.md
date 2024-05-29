@@ -28,13 +28,13 @@ Choose the engine you want to utilize for your shape. Some engines are censored,
 
 There are 5 AI Engine Models you can use. `llama 3 instruct`, `3.5 instruct`, `4`, `8x22` and `3.5`. Learn more about their differences and capabilities on [this page](../frequently-asked-questions/models.md).
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt="" width="240"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt="" width="240"><figcaption></figcaption></figure>
 
 ### Image Generation
 
 To be able to toggle on Image Generation, you need to switch your AI Model to Engine `3.5` or `4`. After enabling this feature, you can now ask your shape to generate images!
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt="" width="255"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt="" width="255"><figcaption></figcaption></figure>
 
 ## Short-Term Memory (STM)
 
@@ -72,7 +72,7 @@ Memory Similarity Threshold dictates what long-term memories are retrieved for a
 
 :factory: We recommend setting your Memory Similarity Threshold at 0.8
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Frequency&#x20;
 
@@ -89,7 +89,7 @@ Adjust the privacy settings to tailor how private your shape keeps conversations
 * **Low = Private:** Memories from DMs and servers are isolated from each other.
 * **Medium = Shared:** Memory can be pulled from the same server and from DMs.
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Generation
 
@@ -101,7 +101,7 @@ Manage your shape's response generation in this section. Choose the model it run
 
 Knowledge Similiarity Threshold controls how much does your shape recalls knowledge and put it into generation. To make the shape remember knowledge better, we recommend you to put it on `0.3 - 0.5` and make sure to `/wack` command after updating the knowledge of your shape.
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Time
 
