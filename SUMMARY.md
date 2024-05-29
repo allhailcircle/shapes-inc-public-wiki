@@ -41,7 +41,7 @@
   * [App Directory](shape-essentials/frequently-asked-questions/app-directory.md)
 * [Troubleshooting minor issues](shape-essentials/troubleshooting-minor-issues.md)
 * [Changelog](shape-essentials/changelog.md)
-* [Shape Showcase](shape-essentials/shape-showcase.md)
+* [🔦 Shape Showcase](shape-essentials/shape-showcase.md)
 * [🚨 Guidelines & Privacy](shape-essentials/guidelines-and-privacy/README.md)
   * [Terms of Service](shape-essentials/guidelines-and-privacy/terms-of-service.md)
   * [Privacy Policy](shape-essentials/guidelines-and-privacy/privacy-policy.md)
