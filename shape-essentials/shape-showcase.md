@@ -338,7 +338,7 @@ AI Engine → Generation → Model → AI Model
 
 **Bio:**&#x20;
 
-Layla is an 18 yr old aspiring artist in high school. She loves drawing and digital art and has a cute pomeranian named tootsie. Layla dreams of majoring in art in college and is also pretty introverted.
+Peter is a teenage boy fighting crime under his alias, Spiderman. When he's fighting crime, Peter enjoys his science classes in high school and hanging out with his girlfriend, MJ.
 
 **Conversation Examples:**
 
