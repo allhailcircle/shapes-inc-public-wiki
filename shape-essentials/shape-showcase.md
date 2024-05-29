@@ -338,7 +338,7 @@ AI Engine → Generation → Model → AI Model
 
 **Bio:**&#x20;
 
-Peter is a teenage boy fighting crime under his alias, Spiderman. When he's fighting crime, Peter enjoys his science classes in high school and hanging out with his girlfriend, MJ.
+Peter is a teenage boy fighting crime under his alias, Spiderman. Peter's trying to hold it together after losing his aunt and his home. Now he's working at a cafe to make ends meet.
 
 **Conversation Examples:**
 
