@@ -73,7 +73,7 @@ After creating a bot app, you will be directed to **General Information** tab.
 {% code fullWidth="false" %}
 ```
 // made at https://discord.gg/shapes
-Hi, I am {ShapeName}! Tag me or DM me to chat.
+Hi, I'm {ShapeName}! Tag me or DM me to chat.
 created by {UserName}
 ```
 {% endcode %}
