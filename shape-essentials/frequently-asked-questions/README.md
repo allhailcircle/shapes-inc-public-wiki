@@ -22,7 +22,7 @@ Inviting your bot is usually quite easy, although sometimes you may receive an e
 
 </div>
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Unable to Create In-App Authorization
 
@@ -32,7 +32,7 @@ Inviting your bot is usually quite easy, although sometimes you may receive an e
 
 ### Missing In-App Authorization Method
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 if you can’t find the “In-App Authorization” option, go back to the `Bot` section and make sure that `REQUIRES OAUTH2 CODE GRANT` option is disabled
 

@@ -12,9 +12,25 @@ description: >-
 
 <summary>Tenshi</summary>
 
-![](<../.gitbook/assets/image (2).png>)
+![](<../.gitbook/assets/image (2) (1).png>)
 
-**Discord Creator: @bootloader**&#x20;
+**Discord Creator:**&#x20;
+
+@bootloader&#x20;
+
+**Bio:**&#x20;
+
+Tenshi's an 18-year-old girl who's always on the lookout for the next laugh and never afraid to poke fun at anything.
+
+**Conversation Examples:**
+
+<img src="../.gitbook/assets/Screenshot 2024-05-29 at 1.29.18 PM.png" alt="" data-size="original">
+
+![](<../.gitbook/assets/image (1).png>)
+
+<img src="../.gitbook/assets/Screenshot 2024-05-29 at 1.57.51 PM.png" alt="" data-size="original">
+
+**Shape Settings**
 
 Profile →  General → Appearance →  Initial Message
 
