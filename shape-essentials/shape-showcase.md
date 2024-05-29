@@ -1,7 +1,7 @@
 ---
 description: >-
-  Here's are our popular shapes and their settings! Feel free to include any of
-  their prompts in your shapes' settings.
+  Here's are some of our popular shapes and their settings! Feel free to include
+  any of their prompts in your shapes' settings. 😉
 ---
 
 # Shape Showcase
