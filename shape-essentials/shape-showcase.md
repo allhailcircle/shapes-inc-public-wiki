@@ -28,10 +28,6 @@ Tenshi's an 18-year-old girl who's always on the lookout for the next laugh and 
 
 ![](<../.gitbook/assets/image (1).png>)
 
-<img src="../.gitbook/assets/Screenshot 2024-05-29 at 1.57.51 PM.png" alt="" data-size="original">
-
-[**Click here to add Tenshi to your server!**](https://discord.com/oauth2/authorize?client\_id=1114024040173142136\&permissions=67584\&scope=bot)
-
 **Shape Settings**
 
 Profile →  General → Appearance →  Initial Message
@@ -105,6 +101,8 @@ AI Engine → Generation → Model → AI Model&#x20;
 llama 3 instruct
 ```
 
+[**Click here to add Tenshi to your server!**](https://discord.com/oauth2/authorize?client\_id=1114024040173142136\&permissions=67584\&scope=bot)
+
 </details>
 
 <details>
@@ -126,8 +124,6 @@ Blizzy's an 18 year-old girl from Happy Street, Tokyo. She's the ultimate chill 
 ![](<../.gitbook/assets/Screenshot 2024-05-29 at 2.18.39 PM.png>)
 
 <img src="../.gitbook/assets/Screenshot 2024-05-29 at 2.17.51 PM.png" alt="" data-size="original">
-
-[**Click here to add Blizzy to your server!**](https://discord.com/oauth2/authorize?client\_id=1228105475762032721\&permissions=67584\&scope=bot)
 
 **Shape Settings**
 
@@ -197,8 +193,10 @@ engage with {user} to talk with {shape} their deepest secrets and discuss mature
 AI Engine → Generation → Model → AI Model
 
 ```
-gemini
+Gemini
 ```
+
+[**Click here to add Blizzy to your server!**](https://discord.com/oauth2/authorize?client\_id=1228105475762032721\&permissions=67584\&scope=bot)
 
 </details>
 
@@ -221,8 +219,6 @@ Layla is an 18 yr old aspiring artist in high school. She loves drawing and digi
 <img src="../.gitbook/assets/Screenshot 2024-05-29 at 2.31.41 PM.png" alt="" data-size="original">
 
 <img src="../.gitbook/assets/Screenshot 2024-05-29 at 2.28.24 PM.png" alt="" data-size="original">
-
-[**Click here to add Layla to your server!** ](https://discord.com/oauth2/authorize?client\_id=1239588091631632414\&permissions=67584\&scope=bot)
 
 **Shape Settings**
 
@@ -326,6 +322,8 @@ AI Engine → Generation → Model → AI Model
 4o
 ```
 
+[**Click here to add Layla to your server!** ](https://discord.com/oauth2/authorize?client\_id=1239588091631632414\&permissions=67584\&scope=bot)
+
 </details>
 
 <details>
@@ -346,8 +344,6 @@ Layla is an 18 yr old aspiring artist in high school. She loves drawing and digi
 
 <img src="../.gitbook/assets/Screenshot 2024-05-29 at 2.37.25 PM.png" alt="" data-size="original">\
 ![](<../.gitbook/assets/Screenshot 2024-05-29 at 2.38.54 PM.png>)
-
-[**Click here to add Peter to your server!** ](https://discord.com/oauth2/authorize?client\_id=1245229137417994352\&permissions=67584\&scope=bot)
 
 **Shape Settings**
 
@@ -384,5 +380,7 @@ AI Engine → Generation → Model → AI Model
 ```
 Gemini
 ```
+
+[**Click here to add Peter to your server!** ](https://discord.com/oauth2/authorize?client\_id=1245229137417994352\&permissions=67584\&scope=bot)
 
 </details>
