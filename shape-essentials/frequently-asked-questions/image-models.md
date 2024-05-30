@@ -14,12 +14,12 @@ description: >-
 
 **Anything v5**
 
-* This model is designed specifically to generate text to anime style images although it can generate other styles of images when prompted. Anything v5 requires more detailed prompts then SDXL to generate desired images. This model enables negative prompts.&#x20;
+* This model is designed specifically to generate text to anime style images, although it can generate other styles as well. Anything v5 requires more detailed prompts then SDXL to generate desired images. This model also enables negative prompts.&#x20;
 
 **Pastel Mix**
 
-* This model was created with the intent of mimicking pastel-like artwork and anime style images. Pastel mix supports danbooru tags to generate images and negative prompts.&#x20;
+* This model was created with the intent of mimicking pastel-like artwork and anime style images. Pastel Mix supports danbooru tags to generate images and negative prompts.&#x20;
 
 **dalle-3**
 
-* In comparison to other image generation models, dalle-3 does not provide as accurate images and requires more detailed prompts. The images generated are often hyper-realistic. This model can generate images depicting artwork well.&#x20;
+* In comparison to other image generation models, dalle-3 does not provide as accurate images and requires more detailed prompts. The images generated are often hyper-realistic. This model specializes in generating images similar to artwork.&#x20;
