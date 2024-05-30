@@ -39,7 +39,7 @@ To create your very own Shape, follow the instructions below:
 
     <div align="center">
 
-    <figure><img src="../../.gitbook/assets/image (71).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (78).png" alt=""><figcaption></figcaption></figure>
 
     </div>
 
@@ -107,7 +107,7 @@ created by {UserName}
 
 Enter the bot token you copied earlier and click on **Activate Shape** button.
 
-<figure><img src="../../.gitbook/assets/image (72).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2024-05-31 025613.png" alt=""><figcaption></figcaption></figure>
 
 Congratulations on making your own shape!
 

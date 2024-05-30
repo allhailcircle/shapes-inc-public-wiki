@@ -10,9 +10,9 @@ description: 'To create your very own Shape, follow the instructions below:'
 
 1. Head over to [**shapes.inc**](https://shapes.inc/).
 2. Complete the form by providing a name and crafting a backstory for your Shape.
-3.  Confirm your details and proceed by pressing **Add to Discord.**
+3. Confirm your details and proceed by pressing **Add to Discord.**
 
-    <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>If you need any help along the way, just let us know in our <a href="https://discord.gg/shapes">Support Server</a> 😊✨</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>If you need any help along the way, just let us know in our <a href="https://discord.gg/shapes">Support Server</a> 😊✨</p></figcaption></figure>
 
 ## If you're logged in
 
@@ -22,18 +22,21 @@ description: 'To create your very own Shape, follow the instructions below:'
 <figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 3. Fill out the required fields: Nickname and Short Backstory
-4.  Press the **Create** button.
+4. Press the **Create** button.
 
-    <figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
+3. Enter the bot token you copied earlier and click on **Activate Shape** button.
 
-5.  Enter the bot token you copied earlier and click on **Activate Shape** button.
-
-    <figure><img src="../../.gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2024-05-31 025613.png" alt=""><figcaption></figcaption></figure>
 
 Congratulations on making your own shape!
 
+<div data-full-width="false">
+
 <figure><img src="../../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 How to get a discord bot token?
 

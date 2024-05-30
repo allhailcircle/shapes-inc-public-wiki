@@ -4,9 +4,8 @@
 
 * [⭐ Welcome to Shapes, Inc Manual](README.md)
 * [Your First Shape](shape-essentials/your-first-shape/README.md)
-  * [Creating a Shape](shape-essentials/your-first-shape/creating-a-shape.md)
   * [Getting a Discord Bot Token](shape-essentials/your-first-shape/getting-a-discord-bot-token.md)
-  * [Setting up installation method](shape-essentials/your-first-shape/setting-up-installation-method.md)
+  * [Creating a Shape](shape-essentials/your-first-shape/creating-a-shape.md)
   * [Creating Multiple Shapes](shape-essentials/your-first-shape/creating-multiple-shapes.md)
 * [Talk with your shape](shape-essentials/talk-with-your-shape/README.md)
   * [+ Add App Button](shape-essentials/talk-with-your-shape/+-add-app-button.md)

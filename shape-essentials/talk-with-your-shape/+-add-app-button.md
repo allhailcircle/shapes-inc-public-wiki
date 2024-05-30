@@ -11,6 +11,6 @@
 * In Default Install Settings section, select `application.commands` and `bot`
 * Save it, Now your shape as an Add App button on their profile
 
-<figure><img src="../../.gitbook/assets/Screenshot 2024-03-22 115237.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2024-05-31 032248.png" alt=""><figcaption></figcaption></figure>
 
 Refresh your Discord app.&#x20;
