@@ -48,7 +48,7 @@ There are 10 AI Engine Models you can choose from.
 * 3.5 instruct
 * 3.5
 
-&#x20;Learn more about their differences and capabilities on [this page](../frequently-asked-questions/ai-engine-models.md).
+&#x20;Learn more about their differences and capabilities on [this page](../frequently-asked-questions/models.md).
 
 <figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt="" width="240"><figcaption></figcaption></figure>
 

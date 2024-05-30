@@ -31,7 +31,7 @@
 * [Frequently Asked Questions](shape-essentials/frequently-asked-questions/README.md)
   * [External code commands](shape-essentials/frequently-asked-questions/external-code-commands.md)
   * [Deleting a message from memory](shape-essentials/frequently-asked-questions/deleting-a-message-from-memory.md)
-  * [AI Engine Models](shape-essentials/frequently-asked-questions/ai-engine-models.md)
+  * [AI Engine Models](shape-essentials/frequently-asked-questions/models.md)
   * [Image Models](shape-essentials/frequently-asked-questions/image-models.md)
   * [Developer Mode](shape-essentials/frequently-asked-questions/developer-mode.md)
   * [Uhh Can You Say That Again](shape-essentials/frequently-asked-questions/uhh-can-you-say-that-again.md)

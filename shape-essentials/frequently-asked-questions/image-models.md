@@ -8,3 +8,12 @@ description: >-
 
 ***
 
+**SDXL**
+
+*
+
+**Anything v5**
+
+**Pastel Mix**
+
+**dalle-3**
