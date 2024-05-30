@@ -4,7 +4,7 @@ description: Personalize your Shape's Discord account.
 
 # Shape Profile
 
-
+***
 
 ## 1. **Profile Picture**
 

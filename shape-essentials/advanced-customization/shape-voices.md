@@ -1,3 +1,9 @@
+---
+description: >-
+  note: you must boost discord.gg/shapes in order to get access to the shape
+  voice feature.
+---
+
 # Shape Voices
 
 <figure><img src="../../.gitbook/assets/Shape Voice Feature Walkthrough.png" alt=""><figcaption></figcaption></figure>

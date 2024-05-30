@@ -35,7 +35,7 @@ To create your very own Shape, follow the instructions below:
     <figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
-5.  You will be asked to enter a discord bot token. Continue with the guide below to get a bot token.
+5.  You will be asked to enter a discord bot token.&#x20;
 
     <div align="center">
 
@@ -47,7 +47,7 @@ To create your very own Shape, follow the instructions below:
 
 ## Getting a Discord Bot Token
 
-### **Create a bot app** at [Discord Developer Portal](https://discord.com/developers/applications/).
+### **Create a bot application** at [Discord Developer Portal](https://discord.com/developers/applications/).
 
 * Select **New Application**
 * Input the name of your shape.

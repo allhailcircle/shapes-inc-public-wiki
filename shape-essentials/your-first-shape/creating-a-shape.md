@@ -4,6 +4,8 @@ description: 'To create your very own Shape, follow the instructions below:'
 
 # Creating a Shape
 
+***
+
 ## If you're not logged in
 
 1. Head over to [**shapes.inc**](https://shapes.inc/).
