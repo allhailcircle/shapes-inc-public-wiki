@@ -14,11 +14,11 @@ description: >-
 
 **Command R+ (Online):**&#x20;
 
-* excels in roleplay and task execution, akin to Model 4 but with some nuances missing. It stands out for its web browsing capabilities, offering a well-rounded experience in both censored and uncensored scenarios. Users praise its ChatGPT-like experience with internet access, making it a preferred choice for roleplay and online information retrieval. However, occasional inaccuracies, particularly in niche subjects, have been noted.
+* excels in roleplay and task execution, akin to Model 4 but with some nuances missing. It stands out for its web browsing capabilities, offering a well-rounded experience in both censored and uncensored scenarios. Users praise its ChatGPT-like experience with internet access, making it a preferred choice for roleplay and online information retrieval. However, occasional inaccuracies, particularly in niche subjects, have been noted. This model also requires significant training in order to establish a well-rounded character.&#x20;
 
 **Gemini**
 
-* talks less naturally then humans, less capable for roleplay situations. Generates short, direct responses by default. Easily switches out of character. Allows uncensored content.&#x20;
+* talks less naturally then humans. Can do well in roleplay situations, but needs detailed prompts. Generates short, direct responses by default. Easily switches out of character. Allows uncensored content.&#x20;
 
 **Haiku:**&#x20;
 
