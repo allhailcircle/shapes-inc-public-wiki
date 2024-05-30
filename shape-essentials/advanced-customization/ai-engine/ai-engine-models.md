@@ -16,6 +16,10 @@ description: >-
 
 * excels in roleplay and task execution, akin to Model 4 but with some nuances missing. It stands out for its web browsing capabilities, offering a well-rounded experience in both censored and uncensored scenarios. Users praise its ChatGPT-like experience with internet access, making it a preferred choice for roleplay and online information retrieval. However, occasional inaccuracies, particularly in niche subjects, have been noted.
 
+**Gemini**
+
+* talks less naturally then humans, less capable for roleplay situations. Generates short, direct responses by default. Easily switches out of character. Allows uncensored content.&#x20;
+
 **Haiku:**&#x20;
 
 * performs well in censored roleplay situations, but it consistently avoids anything even slightly inappropriate. It often censors responses heavily and occasionally switches languages, which may not suit everyone's preferences. Despite these limitations, it's highly regarded for roleplay purposes. However, users have observed that haikus are frequently filtered out, even with attempts to modify its behavior, making it less suitable for certain uses.
@@ -24,9 +28,13 @@ description: >-
 
 * A censored model ideal for roleplay, offering adaptable responses without refusal. While it's proficient in mimicking user writing styles and following complex roleplays, it may filter prompts heavily and lacks a distinct personality.
 
-**Opus:**&#x20;
+**4o**
 
-* The wildest and most censored model with high intelligence and strong ethical guidelines. While excellent for complex tasks and information gathering, its heavy censorship may limit roleplay suitability. Opus has potential but tends to send long messages and can resist convention when challenged.
+* by default responds multiple, long sentences. This is a censored model. Responds quickly, criticized for being repetitive and slightly "unnatural" (i.e. not human-like responses).&#x20;
+
+**Flash**
+
+* responds really quickly with multiple, long sentences. This is an uncensored model and remains in character well.
 
 **8x22:**
 
@@ -39,11 +47,5 @@ description: >-
 **3.5:**
 
 * Slightly improved from 3.5 Instruct, this model also supports image generation. However, it may not match the conversational prowess of 3.5 Instruct.
-
-**4:**
-
-* The superior choice, excelling across various tasks. Whether it's conversation or other functions, this model is well-rounded. Note that these models are lightly censored and moderated.
-
-
 
 Feel free to choose the model that best fits your preferences and requirements. If you have any specific questions or need further assistance, our team is [here](https://discord.gg/shapes) to help!
