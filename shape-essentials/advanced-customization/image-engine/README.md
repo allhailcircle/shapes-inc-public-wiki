@@ -2,7 +2,9 @@
 
 ***
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2024-05-30 at 12.33.09 PM.png" alt=""><figcaption><p>Keep this toggle "on" to allow your shape to send images.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2024-05-30 at 12.33.09 PM.png" alt=""><figcaption></figcaption></figure>
+
+Keep this toggle "on" to allow your shape to send images.
 
 ## Preset
 
