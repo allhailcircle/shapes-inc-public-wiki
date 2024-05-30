@@ -1,7 +1,3 @@
----
-description: Here you can enable your shape to generate images.
----
-
 # Image Engine
 
 ***
