@@ -4,6 +4,8 @@ description: Welcome to the control center of your Shape—the AI Engine.
 
 # AI Engine
 
+***
+
 ## Preset
 
 Choose a default language and engine preset for your Shape.
@@ -20,21 +22,57 @@ Engine presets heavily influence your shape's behavior. You can select multiple 
 
 <figure><img src="../../.gitbook/assets/Screenshot 2023-12-04 at 6.18.50 AM.png" alt=""><figcaption></figcaption></figure>
 
+* For custom preset, it is better to write short sentences in this format:&#x20;
+
+<pre><code><strong>{Shape is shy}.
+</strong><strong>{Shape} gets nervous when talking to {user}.
+</strong><strong>{Shape} doesn't like to ask a lot of questions.  
+</strong></code></pre>
+
 ## Generation
 
 Choose the engine you want to utilize for your shape. Some engines are censored, while others are not. Some engines can generate images, while others cannot.
 
 ### AI Model
 
-There are 5 AI Engine Models you can use. `llama 3 instruct`, `3.5 instruct`, `4`, `8x22` and `3.5`. Learn more about their differences and capabilities on [this page](../frequently-asked-questions/models.md).
+There are 10 AI Engine Models you can choose from.
+
+* llama 3 instruct (recommended)&#x20;
+* command r+ (recommended)
+* gemini&#x20;
+* haiku&#x20;
+* connet
+* 4o
+* flash&#x20;
+* 8x22
+* 3.5 instruct
+* 3.5
+
+&#x20;Learn more about their differences and capabilities on [this page](../frequently-asked-questions/ai-engine-models.md).
 
 <figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt="" width="240"><figcaption></figcaption></figure>
 
-### Image Generation
+## Advanced Generation
 
-To be able to toggle on Image Generation, you need to switch your AI Model to Engine `3.5` or `4`. After enabling this feature, you can now ask your shape to generate images!
+Manage your shape's response generation in this section. Adjust creativity with temperature and Top P. Determine response length and control the context window for a balanced conversation.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt="" width="255"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2024-03-22 120914.png" alt=""><figcaption></figcaption></figure>
+
+## Time
+
+In this section, decide whether your shape should be aware of the current time with the timezone you selected.
+
+<div data-full-width="true">
+
+<figure><img src="../../.gitbook/assets/Screenshot 2024-04-24 082122.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+<div data-full-width="true">
+
+<figure><img src="../../.gitbook/assets/Screenshot 2024-04-24 082051.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 ## Short-Term Memory (STM)
 
@@ -80,7 +118,7 @@ Shapes generate their own memories. You can view this on the memory tab of your 
 
 <figure><img src="../../.gitbook/assets/Screenshot 2023-12-04 at 7.02.41 AM.png" alt=""><figcaption></figcaption></figure>
 
-### Privacy
+### Privacy Setting
 
 Adjust the privacy settings to tailor how private your shape keeps conversations. Decide whether memory from DMs and servers should be isolated or shared to different extents.
 
@@ -91,32 +129,12 @@ Adjust the privacy settings to tailor how private your shape keeps conversations
 
 <figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
-## Generation
-
-Manage your shape's response generation in this section. Choose the model it runs on, adjust creativity with temperature, Top P, determine response length, and control the context window for a balanced conversation.
-
-<figure><img src="../../.gitbook/assets/Screenshot 2024-03-22 120914.png" alt=""><figcaption></figcaption></figure>
-
 ## Knowledge
 
 Knowledge Similiarity Threshold controls how much does your shape recalls knowledge and put it into generation. To make the shape remember knowledge better, we recommend you to put it on `0.3 - 0.5` and make sure to `/wack` command after updating the knowledge of your shape.
 
 <figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
-## Time
 
-In this section, decide whether your shape should be aware of the current time with the timezone you selected.
-
-<div data-full-width="true">
-
-<figure><img src="../../.gitbook/assets/Screenshot 2024-04-24 082122.png" alt=""><figcaption></figcaption></figure>
-
-</div>
-
-<div data-full-width="true">
-
-<figure><img src="../../.gitbook/assets/Screenshot 2024-04-24 082051.png" alt=""><figcaption></figcaption></figure>
-
-</div>
 
 Remember to save your changes after configuring each section to ensure your shape reflects your desired settings. With this level of control, your shape is ready to adapt to your preferences seamlessly! 🔧🤖✨

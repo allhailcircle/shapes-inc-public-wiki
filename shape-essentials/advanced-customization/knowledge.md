@@ -4,6 +4,8 @@ description: Your hub for crafting the information your Shape knows
 
 # Knowledge
 
+***
+
 ## Links
 
 If your shape has a dedicated wiki page or webpage with comprehensive details, drop the link here. Your shape will scrape information from it, providing users with a wealth of knowledge.

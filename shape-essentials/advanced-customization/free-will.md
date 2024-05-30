@@ -1,5 +1,7 @@
 # Free Will
 
+***
+
 Shapes are more than chat-bots. They are just like any other Discord User. Free Will allows them to make decisions on their own, consistent with their personality. For example, they can initiate conversations in a server, react to messages, and do anything a normal Discord user can do.
 
 We are rapidly developing a suite of advanced features that will be added as part of Free Will. For now, these features are available to everyone by default. All we ask is for you to share feedback in our [Shape Server](https://discord.gg/shapes).&#x20;

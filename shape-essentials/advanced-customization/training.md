@@ -7,6 +7,8 @@ description: >-
 
 # Training
 
+***
+
 Try it out on the `Training` page available on [shapes.inc](https://shapes.inc)
 
 <figure><img src="../../.gitbook/assets/Screenshot 2023-11-29 at 7.18.01 PM.png" alt=""><figcaption></figcaption></figure>

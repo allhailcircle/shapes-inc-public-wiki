@@ -1,5 +1,7 @@
 # Personality
 
+***
+
 #### Customizing Your Shape
 
 When creating or configuring your shape, you have the opportunity to add personal touches and define its characteristics. Here are some key aspects you can customize:
@@ -23,8 +25,7 @@ When creating or configuring your shape, you have the opportunity to add persona
 9. **Conversational Goals:**
    * Describe the objectives your shape should aim for during conversations.
 10. **Conversational Examples:**
-
-* Provide sample dialogues or phrases to guide your shape's responses.
+    * Provide sample dialogues or phrases to guide your shape's responses.
 
 Customizing these aspects will shape the unique identity and behavior of your shape. Feel free to experiment and make adjustments to suit your preferences.
 

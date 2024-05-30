@@ -1,7 +1,5 @@
 ---
-description: >-
-  note: you must boost discord.gg/shapes in order to get access to the shape
-  voice feature.
+description: 'note: you must boost discord.gg/shapes in order to get access to this feature.'
 ---
 
 # Shape Voices
