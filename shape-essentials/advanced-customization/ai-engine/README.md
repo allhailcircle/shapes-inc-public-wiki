@@ -22,9 +22,9 @@ Engine presets heavily influence your shape's behavior. You can select multiple 
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2023-12-04 at 6.18.50 AM.png" alt=""><figcaption></figcaption></figure>
 
-* For custom preset, it is better to write short sentences in this format:&#x20;
+* For custom preset, it's better to write short sentences in this format:&#x20;
 
-<pre><code><strong>{Shape is shy}.
+<pre><code><strong>{Shape} is shy.
 </strong><strong>{Shape} gets nervous when talking to {user}.
 </strong><strong>{Shape} doesn't like to ask a lot of questions.  
 </strong></code></pre>
