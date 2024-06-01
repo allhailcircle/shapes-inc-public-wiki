@@ -53,6 +53,7 @@
 
 ## Guides
 
+* [How to Make Your Server Active](guides/how-to-make-your-server-active.md)
 * [How to Make a High Quality Shape](guides/how-to-make-a-high-quality-shape.md)
 
 ## Links
