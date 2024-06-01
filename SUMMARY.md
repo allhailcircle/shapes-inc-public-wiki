@@ -51,6 +51,10 @@
 
 * [Features](advanced-controls/features.md)
 
+## Guides
+
+* [How to Make a High Quality Shape](guides/how-to-make-a-high-quality-shape.md)
+
 ## Links
 
 * [Shapes.Inc Dashboard](https://shapes.inc/home)
