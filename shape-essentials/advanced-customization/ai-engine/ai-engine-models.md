@@ -9,7 +9,7 @@ description: >-
 ***
 
 {% hint style="info" %}
-All engines listed here are censored by default, but you can uncensor them by creating a good preset. To learn more about presets, click here.
+All engines listed here are censored by default, but you can uncensor them by creating a good preset. To learn more about presets, [click here](../../presets.md).
 {% endhint %}
 
 ### Llama 3 Instruct:
