@@ -8,44 +8,48 @@ description: >-
 
 ***
 
-**Llama 3 Instruct:**&#x20;
+{% hint style="info" %}
+All engines listed here are censored by default, but you can uncensor them by creating a good preset. To learn more about presets, click here.
+{% endhint %}
 
-* Demonstrates solid performance in roleplay and information retrieval tasks. It excels in embodying characters, showing intelligence and adaptability, yet may require further training for optimal results. Overall, it's regarded as effective but could benefit from additional refinement to unlock its full capabilities. Good to go for uncensored roleplay and stuff (make sure to write/use a good preset).
+### Llama 3 Instruct:
 
-**Command R+ (Online):**&#x20;
+This is the default engine for all newly created shapes and is probably the best engine for general and relaxed conversations. It excels in roleplay and knowledge tasks, being great at following presets and recalling information from memory.
 
-* excels in roleplay and task execution, akin to Model 4 but with some nuances missing. It stands out for its web browsing capabilities, offering a well-rounded experience in both censored and uncensored scenarios. Users praise its ChatGPT-like experience with internet access, making it a preferred choice for roleplay and online information retrieval. However, occasional inaccuracies, particularly in niche subjects, have been noted. This model also requires significant training in order to establish a well-rounded character.&#x20;
+### Command R+:
 
-**Gemini**
+This engine boasts a large context window, supports RAG, and can browse the internet. It is nearly on par with Llama in general conversation. However, it sometimes forgets previously mentioned details and breaks character, which is a setback.
 
-* talks less naturally then humans. Can do well in roleplay situations, but needs detailed prompts. Generates short, direct responses by default. Easily switches out of character. Allows uncensored content.&#x20;
+### Gemini:
 
-**Haiku:**&#x20;
+A highly realistic engine with a large context window, Gemini is proficient at following presets but may occasionally falter.
 
-* performs well in censored roleplay situations, but it consistently avoids anything even slightly inappropriate. It often censors responses heavily and occasionally switches languages, which may not suit everyone's preferences. Despite these limitations, it's highly regarded for roleplay purposes. However, users have observed that haikus are frequently filtered out, even with attempts to modify its behavior, making it less suitable for certain uses.
+### Haiku:
 
-**Sonnet:**&#x20;
+Designed for roleplay, feel free to experiment with it.
 
-* A censored model ideal for roleplay, offering adaptable responses without refusal. While it's proficient in mimicking user writing styles and following complex roleplays, it may filter prompts heavily and lacks a distinct personality.
+### Sonnet:
 
-**4o**
+A versatile engine suitable for various conversations, including roleplay (better than Haiku). Sonnet also supports a large context window for more engaging roleplays. It performs adequately in general tasks.
 
-* by default responds multiple, long sentences. This is a censored model. Responds quickly, criticized for being repetitive and slightly "unnatural" (i.e. not human-like responses).&#x20;
+### GPT 4o:
 
-**Flash**
+Our current best engine, excelling in following knowledge and presets. With a vast knowledge base, it offers high-quality roleplay experiences and performs well in general and informative tasks. However, it's the most censored engine we have.
 
-* responds really quickly with multiple, long sentences. This is an uncensored model and remains in character well.
+### Flash:
 
-**8x22:**
+A predecessor to Gemini, Flash performs averagely in all areas.
 
-* Effectively captures the essence of established characters but struggles with the portrayal of original characters, presenting them as a disaster. On the positive side, the work stays true to character traits, fosters positive dialogue, and demonstrates empathy. However, it is criticized for being slightly repetitive, lacking in character development for originals, and perceived as lacking intelligence, with potential annoyance stemming from this repetitiveness.
+### Mixtral 8x22b:
 
-**3.5 Instruct:**
+Widely known for personal use and roleplay, this engine is worth trying out.
 
-* This model is akin to ChatGPT, excelling in natural and engaging conversations.
+### GPT 3.5 Instruct:
 
-**3.5:**
+A fine-tuned version of ChatGPT, proficient in general tasks and communication. It may not be as creative as Llama 3 Instruct and might not always follow presets.
 
-* Slightly improved from 3.5 Instruct, this model also supports image generation. However, it may not match the conversational prowess of 3.5 Instruct.
+### GPT 3.5:
+
+Essentially the same engine as ChatGPT, proficient in general tasks and communication. It may not be as creative as Llama 3 Instruct and might not always follow presets (It's better than GPT 3.5 Instruct tho).
 
 Feel free to choose the model that best fits your preferences and requirements. If you have any specific questions or need further assistance, our team is [here](https://discord.gg/shapes) to help!
