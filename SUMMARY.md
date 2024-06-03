@@ -31,6 +31,7 @@
 * [Shapes Community](shape-essentials/shapes-community.md)
 * [Active Developer Badge](shape-essentials/active-developer-badge.md)
 * [Frequently Asked Questions](shape-essentials/frequently-asked-questions/README.md)
+  * [OAuth Application Limit Reached](shape-essentials/frequently-asked-questions/oauth-application-limit-reached.md)
   * [External code commands](shape-essentials/frequently-asked-questions/external-code-commands.md)
   * [Deleting a message from memory](shape-essentials/frequently-asked-questions/deleting-a-message-from-memory.md)
   * [Developer Mode](shape-essentials/frequently-asked-questions/developer-mode.md)
