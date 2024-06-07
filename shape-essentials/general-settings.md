@@ -1,10 +1,44 @@
+---
+description: >-
+  On this part of the dashboard, you can add co-owners, enable/disable slash
+  commands and more!
+---
+
 # General Settings
 
-Shapes come pre-programmed with slash commands.
+### Owners
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-12-03 at 10.07.35 PM.png" alt=""><figcaption><p>type <code>/</code> on your own Shape to see this</p></figcaption></figure>
+You can add more owners to your shape so you can work on it together!\
+To add a owner, simply type their discord username and select the correct user.
 
-But we know some servers don't like slash commands\
-Now you (shape owner) can disable slash commands of a shape from dashboard.
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-11-30 113414.png" alt=""><figcaption></figcaption></figure>
+### Slash Commands
+
+You can disable slash commands to your shape. When its disabled, you can use mention commands: `@Name activate` `@Name deactivate` `@Name wack` `@Name reset` `@Name config`.
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+### Privacy
+
+Here you can disable showing the server list your shapes are in. This will hide the server list located at **Analytics** tab.
+
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+### Direct Messages
+
+Disable users from talking with your shape via direct messages.
+
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+### Ignore List
+
+Someone bullying your shape? Ignore list is your friend, you can put the discord usernames of the people your shape won't talk with. Putting their names in Ignore list will make the shape not respond to them.
+
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+
+## Danger Zone
+
+On this section, you can disable and enable your shape and delete your shape & reset bot token.
+
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>

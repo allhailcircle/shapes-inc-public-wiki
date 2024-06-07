@@ -12,7 +12,7 @@ description: >-
 
 <summary>Tenshi</summary>
 
-![](<../.gitbook/assets/image (2) (1) (1).png>)
+![](<../.gitbook/assets/image (2) (1) (1) (1).png>)
 
 **Discord Creator:**&#x20;
 
@@ -26,7 +26,7 @@ Tenshi's an 18-year-old girl who's always on the lookout for the next laugh and 
 
 <img src="../.gitbook/assets/Screenshot 2024-05-29 at 1.29.18 PM.png" alt="" data-size="original">
 
-![](<../.gitbook/assets/image (1) (1).png>)
+![](<../.gitbook/assets/image (1) (1) (1).png>)
 
 **Shape Settings**
 
@@ -109,7 +109,7 @@ llama 3 instruct
 
 <summary>Blizzy </summary>
 
-![](<../.gitbook/assets/image (4) (1).png>)
+![](<../.gitbook/assets/image (4) (1) (1).png>)
 
 **Discord Creator:**&#x20;
 
@@ -204,7 +204,7 @@ Gemini
 
 <summary>Layla</summary>
 
-![](<../.gitbook/assets/image (5) (1).png>)
+![](<../.gitbook/assets/image (5) (1) (1).png>)
 
 **Discord Creator:**&#x20;
 

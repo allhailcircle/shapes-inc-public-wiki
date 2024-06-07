@@ -55,5 +55,5 @@ Customize how your shape communicates. Options include talking style, such as se
 
 You can enable these filters to prevent shape from engaging with bad content or saying bad things in your server. You can enable moderation per-content type like, hate speech, harassment, self-harm, sexual, violence, graphic.
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
