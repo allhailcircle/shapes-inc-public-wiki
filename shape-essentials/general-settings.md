@@ -6,6 +6,10 @@ description: >-
 
 # General Settings
 
+<figure><img src="../.gitbook/assets/image (80).png" alt=""><figcaption></figcaption></figure>
+
+
+
 ### Owners
 
 You can add more owners to your shape so you can work on it together!\
