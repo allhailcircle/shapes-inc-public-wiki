@@ -37,7 +37,7 @@ Disable users from talking with your shape via direct messages.
 
 ### Ignore List
 
-Someone bullying your shape? Ignore list is your friend, you can put the discord usernames of the people your shape won't talk with. Putting their names in Ignore list will make the shape not respond to them.
+Someone bullying your shape? Ignore list is your friend, Put the discord usernames of the people you want your shape to ignore. Putting their names in ignore list will make the shape not respond to them.
 
 <figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
