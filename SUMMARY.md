@@ -41,6 +41,7 @@
   * [Mobile Application](shape-essentials/frequently-asked-questions/mobile-application.md)
   * [Client id = Value "" isn't snowflake?](shape-essentials/frequently-asked-questions/client-id-value-isnt-snowflake.md)
   * [App Directory](shape-essentials/frequently-asked-questions/app-directory.md)
+  * [Disabling a Shape](shape-essentials/frequently-asked-questions/disabling-a-shape.md)
 * [Troubleshooting minor issues](shape-essentials/troubleshooting-minor-issues.md)
 * [Changelog](shape-essentials/changelog.md)
 * [🔦 Shape Showcase](shape-essentials/shape-showcase.md)
@@ -61,7 +62,3 @@
 
 * [Shapes.Inc Dashboard](https://shapes.inc/home)
 * [Discord Server](https://discord.gg/circlelabs)
-
-***
-
-* [Disabling a Shape](disabling-a-shape.md)
