@@ -8,21 +8,13 @@ description: >-
 
 ***
 
-**SDXL (recommended)**
+**SDXL Turbo (recommended)**
 
 * SDXL maintains intent and content of shorter prompts for generated realistic images. This model allows 'negative prompts' which can significantly help clarify image content. Overall this is the recommended image model to use.&#x20;
-
-**Anything v5**
-
-* This model is designed specifically to generate text to anime style images, although it can generate other styles as well. Anything v5 requires more detailed prompts then SDXL to generate desired images. This model also enables negative prompts.&#x20;
 
 **Stable Diffusion 3**
 
 * This model is designed to offer improved quality of text generation in images and create 3D/realistic images. Stable Diffusion 3 is not the best model for anime style images.
-
-**Pastel Mix**
-
-* This model was created with the intent of mimicking pastel-like artwork and anime style images. Pastel Mix supports danbooru tags to generate images and negative prompts.&#x20;
 
 **dalle-3**
 

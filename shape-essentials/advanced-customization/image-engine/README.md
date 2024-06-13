@@ -16,9 +16,7 @@ This works similar to the preset tab in the AI Engine page. Any instructions you
 
 There are four image models you can choose from:&#x20;
 
-* SDXL
-* Anything v5
-* Pastel Mix
+* SDXL Turbo
 * dalle-3
 * Stable Diffusion 3
 
