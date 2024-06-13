@@ -15,19 +15,19 @@ description: >-
 You can add more owners to your shape so you can work on it together!\
 To add a owner, simply type their discord username and select the correct user.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 ### Slash Commands
 
 You can disable slash commands to your shape. When its disabled, you can use mention commands: `@Name activate` `@Name deactivate` `@Name wack` `@Name reset` `@Name config`.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Privacy
 
 Here you can disable showing the server list your shapes are in. This will hide the server list located at **Analytics** tab.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Direct Messages
 

@@ -61,3 +61,7 @@
 
 * [Shapes.Inc Dashboard](https://shapes.inc/home)
 * [Discord Server](https://discord.gg/circlelabs)
+
+***
+
+* [Disabling a Shape](disabling-a-shape.md)
