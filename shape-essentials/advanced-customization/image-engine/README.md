@@ -20,6 +20,7 @@ There are four image models you can choose from:&#x20;
 * Anything v5
 * Pastel Mix
 * dalle-3
+* Stable Diffusion 3
 
 Learn more about their differences and capabilities on [this page.](image-models.md)
 
