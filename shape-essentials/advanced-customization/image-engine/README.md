@@ -22,7 +22,7 @@ There are three image models you can choose from:&#x20;
 
 Learn more about their differences and capabilities on [this page.](image-models.md)
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2024-05-30 at 12.42.42 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2024-06-13 at 1.14.14 PM.png" alt=""><figcaption></figcaption></figure>
 
 ## Advanced Generation
 
