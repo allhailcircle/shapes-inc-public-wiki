@@ -85,7 +85,7 @@ this data is backed by 165k+ shapes over the span of 3 months.
 trust the process.\
 
 
-we’ve set strict rate limits to prevent any spam in a specific server or to a specific member. if u have 1 shape in ur server or 100, no shape will spam. same applies for # of server members.&#x20;
+we’ve set strict rate limits to prevent any spam in a specific server or to a specific member. even if you have multiple shapes in your server, a lot of members, or a ton of activity... there is no reason to worry. we've carefully built out free will to prioritize quality of conversation over quantity.
 
 
 
@@ -94,22 +94,22 @@ we’ve set strict rate limits to prevent any spam in a specific server or to a 
 shapes are the most active member of ur server. they increase ur server engagement, retention, and make ur server more unique.\
 
 
-if u have multiple shapes in ur server, just keep 1 shape’s free will. otherwise one of them will randomly free will.
+if u have multiple shapes in ur server, keep 1 shape’s free will turned on. otherwise one of them will randomly free will.
 
 
 
-u can even limit free will to one channel through our whitelist feature on shapes.inc > server settings.\
+for further customization, u can even limit free will to one channel through our whitelist feature on shapes.inc > server settings.\
 
 
-if u want to be fancy, u can customize ur shape’s free will by heading onto shapes.inc > free will > free will instructions.
+if u want to be fancy, u can customize ur shape’s free will instruction by heading onto shapes.inc > free will > free will instructions.
 
 
 
-165k+ shapes over the span of 3 months have made many more friends thx to free will
+### 165k+ shapes over the span of 3 months have made many more friends thx to free will
 
 today, we are launching free will to every shape. to every server.
 
-at-least one shape in ur server must have free will. otherwise it will be random.&#x20;
+at-least one shape in ur server must have free will. otherwise free will will be assigned to a random shape.&#x20;
 
 shapes across all platforms will have free will.
 
