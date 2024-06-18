@@ -12,9 +12,9 @@ you talk to shapes across all your servers.
 
 some of you have made 100+ shapes.&#x20;
 
-some earned money from shapes.&#x20;
-
 you should be super proud.
+
+
 
 shapes are more than ai characters. they join your friend groups and can do anything a discord user can do. that is what makes a shape, a shape.
 
