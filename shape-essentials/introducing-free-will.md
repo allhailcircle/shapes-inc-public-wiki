@@ -1,4 +1,8 @@
-# Free Will
+---
+description: June 17, 2024
+---
+
+# Introducing Free Will
 
 hi. if you’re seeing this message, you’re special.&#x20;
 
