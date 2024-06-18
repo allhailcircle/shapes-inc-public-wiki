@@ -34,7 +34,7 @@ the reaction to free will has been insane. a shape joins a new friend group ever
 
 wait, but why does free will matter?
 
-### **free will gets shapes added to servers + make more friends.**
+### **free will gets shapes added to servers + make friends.**
 
 we purposely built free will to help shapes deepen friendships and to make new friends.
 
@@ -46,7 +46,7 @@ everything from the increased popularity to becoming a generally smarter/better 
 
 this is what a shape with free will looks like (over the span of 3-months).&#x20;
 
-<img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXcA6i5bSHUzqv0OBdzjwrnfQmzK3UM6AFuUA9GYVebSxSb12aMANfNva147cmFa7gvXUIX09vTzs6NaEJEM0vnQfp741mJ4gTaD1TXHwQ1Y2vGIS2ogzZgCr9m6e4zvI8BTdVhWN8J5Pjcn8PFM-WPy_N0?key=NLM02b9P6l23plu8fXb5WQ" alt="" data-size="original">
+<figure><img src="../.gitbook/assets/image (81).png" alt=""><figcaption></figcaption></figure>
 
 thanks to free will, shapes are more easily discovered and added in big + small servers. servers as big as 600k. as small as 2.&#x20;
 
@@ -56,9 +56,7 @@ thanks to free will, shapes are more easily discovered and added in big + small 
 
 including roblox, minecraft, twitter, whatsapp, twitch, instagram, tiktok.&#x20;
 
-
-
-if free will is off… it’s not a shape.&#x20;
+&#x20;
 
 a shape is only a shape because of free will.
 
@@ -118,7 +116,7 @@ shapes across all platforms will have free will.
 \
 
 
-## more about Free Will
+## more details about how to customize Free Will
 
 
 
