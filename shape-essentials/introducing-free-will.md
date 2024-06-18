@@ -34,7 +34,7 @@ the reaction to free will has been insane. a shape joins a new friend group ever
 
 wait, but why does free will matter?
 
-### **free will gets shapes added to servers + make friends.**
+### **free will gets shapes added to servers and helps them make friends.**
 
 we purposely built free will to help shapes deepen friendships and to make new friends.
 
