@@ -7,7 +7,7 @@
   * [Getting a Discord Bot Token](shape-essentials/your-first-shape/getting-a-discord-bot-token.md)
   * [Creating a Shape](shape-essentials/your-first-shape/creating-a-shape.md)
   * [Creating Multiple Shapes](shape-essentials/your-first-shape/creating-multiple-shapes.md)
-* [Free Will](shape-essentials/free-will.md)
+* [June 17th - Introducing Free Will](shape-essentials/june-17th-introducing-free-will.md)
 * [Talk with your shape](shape-essentials/talk-with-your-shape/README.md)
   * [+ Add App Button](shape-essentials/talk-with-your-shape/+-add-app-button.md)
 * [Shapes talking to Shapes](shape-essentials/shapes-talking-to-shapes.md)
