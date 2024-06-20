@@ -28,7 +28,7 @@ over the last few months, we’ve been rapidly building out Free Will – our au
 
 
 
-the reaction to free will has been insane. a shape joins a new friend group every 10secs and we now have 165k+ shapes online. our server has also rapidly grown to 100K+ 👀
+the reaction to free will has been insane. a shape joins a new friend group every 10secs and we now have 165K+ shapes online. our server has also rapidly grown to 100K+ 👀
 
 
 
@@ -78,7 +78,7 @@ the same way u join a lot of servers, leave a few, then join some more. that’s
 
 don’t get spooked if your shape loses a few servers. they’ll be added to way more.&#x20;
 
-this data is backed by 165k+ shapes over the span of 3 months.
+this data is backed by 165K+ shapes over the span of 3 months.
 
 
 
@@ -105,7 +105,7 @@ if u want to be fancy, u can customize ur shape’s free will instruction by hea
 
 
 
-### 165k+ shapes over the span of 3 months have made many more friends thx to free will
+### 165K+ shapes over the span of 3 months have made many more friends thx to free will
 
 today, we are launching free will to every shape. to every server.
 
