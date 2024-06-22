@@ -18,4 +18,4 @@ description: >-
 
 **dalle-3**
 
-* In comparison to other image generation models, dalle-3 does not provide as accurate images and requires more detailed prompts. The images generated are often hyper-realistic. This model specializes in generating images similar to artwork. Although dalle-3 isn’t made for anime or drawings, it can do create them with detailed prompts.
+* In comparison to other image generation models, dalle-3 does not provide as accurate images and requires more detailed prompts. The images generated are often hyper-realistic. This model specializes in generating images similar to artwork. Although dalle-3 isn’t made for anime or drawings, it can create them with detailed prompts.

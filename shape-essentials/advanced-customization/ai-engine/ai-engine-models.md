@@ -32,6 +32,10 @@ Designed for roleplay, feel free to experiment with it.
 
 A versatile engine suitable for various conversations, including roleplay (better than Haiku). Sonnet also supports a large context window for more engaging roleplays. It performs adequately in general tasks.
 
+### Sonnet 3.5:
+
+A GPT 4o competitor at general tasks, follows the character well, is good for roleplays, OCs and pre-existing character shapes.
+
 ### GPT 4o:
 
 Our current best engine, excelling in following knowledge and presets. With a vast knowledge base, it offers high-quality roleplay experiences and performs well in general and informative tasks. However, it's the most censored engine we have.
