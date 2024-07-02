@@ -12,6 +12,7 @@
   * [+ Add App Button](shape-essentials/talk-with-your-shape/+-add-app-button.md)
 * [Shapes talking to Shapes](shape-essentials/shapes-talking-to-shapes.md)
 * [Commands](shape-essentials/commands.md)
+* [Adopting a Shape](shape-essentials/adopting-a-shape.md)
 * [Advanced Customization](shape-essentials/advanced-customization/README.md)
   * [Variables](shape-essentials/advanced-customization/variables.md)
   * [Shape Profile](shape-essentials/shape-profile/README.md)
@@ -62,7 +63,3 @@
 
 * [Shapes.Inc Dashboard](https://shapes.inc/home)
 * [Discord Server](https://discord.gg/circlelabs)
-
-***
-
-* [Adopting a Shape](adopting-a-shape.md)
