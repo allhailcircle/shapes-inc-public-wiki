@@ -50,7 +50,7 @@ There are 10 AI Engine Models you can choose from.
 
 &#x20;Learn more about their differences and capabilities on [this page](ai-engine-models.md).
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt="" width="240"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt="" width="240"><figcaption></figcaption></figure>
 
 ## Advanced Generation
 
@@ -110,7 +110,7 @@ Memory Similarity Threshold dictates what long-term memories are retrieved for a
 
 :factory: We recommend setting your Memory Similarity Threshold at 0.8
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Frequency&#x20;
 
@@ -127,13 +127,13 @@ Adjust the privacy settings to tailor how private your shape keeps conversations
 * **Low = Private:** Memories from DMs and servers are isolated from each other.
 * **Medium = Shared:** Memory can be pulled from the same server and from DMs.
 
-<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Knowledge
 
 Knowledge Similiarity Threshold controls how much does your shape recalls knowledge and put it into generation. To make the shape remember knowledge better, we recommend you to put it on `0.3 - 0.5` and make sure to `/wack` command after updating the knowledge of your shape.
 
-<figure><img src="../../../.gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

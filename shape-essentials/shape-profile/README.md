@@ -40,7 +40,7 @@ _Note: you can edit this photo anytime!_&#x20;
 
 * [ ] Share an activity your Shape is up to. We recommend `Watching my DMs` to let everyone know they can DM your Shape!
 
-<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (14) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 8. Initial Message
 

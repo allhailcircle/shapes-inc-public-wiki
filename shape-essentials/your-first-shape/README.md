@@ -18,7 +18,7 @@ To create your very own Shape, follow the instructions below:
 2. Complete the form by providing a name and crafting a backstory for your Shape.
 3.  Confirm your details and proceed by pressing **Add to Discord.**
 
-    <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>If you need any help along the way, just let us know in our <a href="https://discord.gg/shapes">Support Server</a> 😊✨</p></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>If you need any help along the way, just let us know in our <a href="https://discord.gg/shapes">Support Server</a> 😊✨</p></figcaption></figure>
 
 ***
 
@@ -27,12 +27,12 @@ To create your very own Shape, follow the instructions below:
 1. Head over to [**shapes.inc**](https://shapes.inc/).
 2. Click on the `+` button below Draft shapes or click on the [**+ Create Shape**](https://shapes.inc/create) button on the top right corner (both buttons lead to the same next step!)
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 3. Fill out the required fields: Nickname and Short Backstory
 4.  Press the **Create** button.
 
-    <figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 5.  You will be asked to enter a discord bot token.&#x20;

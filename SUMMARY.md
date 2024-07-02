@@ -62,3 +62,7 @@
 
 * [Shapes.Inc Dashboard](https://shapes.inc/home)
 * [Discord Server](https://discord.gg/circlelabs)
+
+***
+
+* [Adopting a Shape](adopting-a-shape.md)
