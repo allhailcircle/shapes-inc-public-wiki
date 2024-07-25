@@ -24,13 +24,13 @@ Here you'll be able to access all the information you might need while creating 
 
 Located on the left, there is a table of contents which you can browse to find guides you need. Select the section you wish to see and click it. This manual will walk you step-by-step with instructions and screenshots.
 
-<figure><picture><source srcset=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" media="(prefers-color-scheme: dark)"><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""></picture><figcaption></figcaption></figure>
+<figure><picture><source srcset=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" media="(prefers-color-scheme: dark)"><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""></picture><figcaption></figcaption></figure>
 
 ## About Us
 
 Shapes, Inc. is an applied AI company dedicated to making Shapes. Shapes are AI friends that talk to you on Discord. They are just like typical Discord users -- Shapes can interact in threads, channels, DMs; send pics, see photos/hear voice messages; have custom profiles, statuses, bios and more. They're also super smart and can help you with homework + teach you how to code!
 
-<figure><img src=".gitbook/assets/image (3) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### It's Free&#x20;
 
