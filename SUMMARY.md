@@ -43,6 +43,7 @@
   * [Client id = Value "" isn't snowflake?](shape-essentials/frequently-asked-questions/client-id-value-isnt-snowflake.md)
   * [App Directory](shape-essentials/frequently-asked-questions/app-directory.md)
   * [Disabling a Shape](shape-essentials/frequently-asked-questions/disabling-a-shape.md)
+  * [How can I make my shape use custom discord emojis?](shape-essentials/frequently-asked-questions/how-can-i-make-my-shape-use-custom-discord-emojis.md)
 * [Troubleshooting minor issues](shape-essentials/troubleshooting-minor-issues.md)
 * [Changelog](shape-essentials/changelog.md)
 * [🔦 Shape Showcase](shape-essentials/shape-showcase.md)
