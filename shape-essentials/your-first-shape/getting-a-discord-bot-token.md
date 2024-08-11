@@ -25,7 +25,7 @@ To be able to talk with your shape, we need to setup the install method.
 
 <figure><img src="../../.gitbook/assets/Screenshot 2024-05-31 031939.png" alt=""><figcaption></figcaption></figure>
 
-4. on **Default Install Settings** section, there is a **Guild Install** scope select menu. Open the select menu and click **bot** and under permissions select **Administrator**, then click **Save Changes**.
+4. on **Default Install Settings** section, there is a **Guild Install** scope select menu. Open the select menu and select **bot**, then click **Save Changes**.
 
 <figure><img src="../../.gitbook/assets/Screenshot 2024-06-08 at 8.34.18 PM.png" alt=""><figcaption></figcaption></figure>
 
