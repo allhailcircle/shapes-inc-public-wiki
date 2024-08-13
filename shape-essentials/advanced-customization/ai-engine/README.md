@@ -50,7 +50,7 @@ There are 10 AI Engine Models you can choose from.
 
 &#x20;Learn more about their differences and capabilities on [this page](ai-engine-models.md).
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="240"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="240"><figcaption></figcaption></figure>
 
 ## Advanced Generation
 

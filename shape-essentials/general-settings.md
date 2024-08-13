@@ -21,7 +21,7 @@ To add a owner, simply type their discord username and select the correct user.
 
 You can disable slash commands to your shape. When its disabled, you can use mention commands: `@Name activate` `@Name deactivate` `@Name wack` `@Name reset` `@Name config`.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Privacy
 

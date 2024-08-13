@@ -20,7 +20,7 @@ _note: only up to 5 shapes can be activated in a channel. if you do activate 5 s
 
 #### Reacting to the last shape's message
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Limitations of Shape Talking to Shape Mode
 

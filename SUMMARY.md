@@ -44,6 +44,7 @@
   * [App Directory](shape-essentials/frequently-asked-questions/app-directory.md)
   * [Disabling a Shape](shape-essentials/frequently-asked-questions/disabling-a-shape.md)
   * [How can I make my shape use custom discord emojis?](shape-essentials/frequently-asked-questions/how-can-i-make-my-shape-use-custom-discord-emojis.md)
+  * [I added my shape to a server but it didn't join!](shape-essentials/frequently-asked-questions/i-added-my-shape-to-a-server-but-it-didnt-join.md)
 * [Troubleshooting minor issues](shape-essentials/troubleshooting-minor-issues.md)
 * [Changelog](shape-essentials/changelog.md)
 * [🔦 Shape Showcase](shape-essentials/shape-showcase.md)
