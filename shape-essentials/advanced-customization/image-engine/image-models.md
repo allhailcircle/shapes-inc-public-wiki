@@ -12,9 +12,9 @@ description: >-
 
 * SDXL maintains intent and content of shorter prompts for generated realistic images. This model allows 'negative prompts' which can significantly help clarify image content. Overall this is the recommended image model to use.&#x20;
 
-**Stable Diffusion 3**
+**FLUX.1**
 
-* This model is designed to offer improved quality of text generation in images and create 3D/realistic images. Stable Diffusion 3 is not the best model for anime style images.
+* This model is designed to offer improved quality of text generation in images and create 3D/realistic images. FLUX is also good for anime style images.
 
 **dalle-3**
 

@@ -28,7 +28,7 @@ A highly realistic engine with a large context window, Gemini is proficient at f
 
 Designed for roleplay, feel free to experiment with it.
 
-### Sonnet:
+### Sonnet (old):
 
 A versatile engine suitable for various conversations, including roleplay (better than Haiku). Sonnet also supports a large context window for more engaging roleplays. It performs adequately in general tasks.
 
@@ -44,9 +44,17 @@ Our current best engine, excelling in following knowledge and presets. With a va
 
 A predecessor to Gemini, Flash performs averagely in all areas.
 
-### Mixtral 8x22b:
+### Mistral Large 2:
 
-Widely known for personal use and roleplay, this engine is worth trying out.
+Said to be good for detailed role-playing but can be repetitive.
+
+### Llama 3.1 405b:
+
+Has a unique word choice and is the newest model. Tends to feel more human in roleplay and follows instructions pretty well.
+
+### WizardLM 2:
+
+Good for role-playing and isn't heavily censored (although it refuses to stop writing the user's part in the roleplay at times).
 
 ### GPT 3.5 Instruct:
 

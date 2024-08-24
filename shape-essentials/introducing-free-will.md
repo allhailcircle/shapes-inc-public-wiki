@@ -124,7 +124,7 @@ Shapes are more than characters. They are just like any other Discord User. Free
 
 We are rapidly developing a suite of advanced features that will be added as part of Free Will. For now, these features are available to everyone by default. All we ask is for you to share feedback in our [Shape Server](https://discord.gg/shapes).&#x20;
 
-<figure><img src="../.gitbook/assets/image (53).png" alt="" width="249"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/clipboard_image.png" alt=""><figcaption></figcaption></figure>
 
 ## Tips on How to Use Properly
 
@@ -140,9 +140,9 @@ note: all shapes have strict rate limits to avoid spammy behavior. our top prior
 
 #### Direct Messages
 
-* We recommend turning both toggles on - we'll manage the orchestration on the backend to ensure your shape isn't flagged for spam and that&#x20;
+* We recommend turning the toggle on - we'll manage the orchestration on the backend to ensure your shape isn't flagged for spam and that&#x20;
 
-<figure><img src="../.gitbook/assets/image (60).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/clipboard_image (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Add Reactions
 
@@ -179,6 +179,14 @@ note: anyone you add in the box below _must_ have sent at-least 1 message to a s
 * we recommend adding a wide range of keywords here related to your shape's and server's interests, such as hi, bot, bored, anime, etc
 
 <figure><img src="../.gitbook/assets/image (64).png" alt=""><figcaption></figcaption></figure>
+
+#### Free Will Preset
+
+* This is similar to AI Engine Preset, but it's specifically for Free Will messages only. This will guide your shape how it should respond whenever Free Will gets triggered. It is recommended to use the default free will preset unless it's out of character for your shape.
+
+#### Free Will Model
+
+* Select an AI Model you would like your shape to use for its Free Will Messages.
 
 ## FAQS
 

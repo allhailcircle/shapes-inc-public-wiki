@@ -20,13 +20,13 @@ Setting a language preset means the default language your Shape responds in will
 
 Engine presets heavily influence your shape's behavior. You can select multiple presets or create a custom preset.&#x20;
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2023-12-04 at 6.18.50 AM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/clipboard_image (2).png" alt=""><figcaption></figcaption></figure>
 
 * For custom preset, it's better to write short sentences in this format:&#x20;
 
-<pre><code><strong>{Shape} is shy.
-</strong><strong>{Shape} gets nervous when talking to {user}.
-</strong><strong>{Shape} doesn't like to ask a lot of questions.  
+<pre><code><strong>{shape} is shy.
+</strong><strong>{shape} gets nervous when talking to {user}.
+</strong><strong>{shape} doesn't like to ask a lot of questions.  
 </strong></code></pre>
 
 ## Generation
@@ -39,18 +39,21 @@ There are 10 AI Engine Models you can choose from.
 
 * llama 3 instruct (recommended)&#x20;
 * command r+ (recommended)
+* llama 3.1 405b
+* mistral large 2
 * gemini&#x20;
 * haiku&#x20;
 * connet
 * 4o
 * flash&#x20;
-* 8x22
+* WizardLM 2
+* sonnet (old)
 * 3.5 instruct
 * 3.5
 
 &#x20;Learn more about their differences and capabilities on [this page](ai-engine-models.md).
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="240"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/clipboard_image (3).png" alt=""><figcaption></figcaption></figure>
 
 ## Advanced Generation
 

@@ -17,12 +17,12 @@ This works similar to the preset tab in the AI Engine page. Any instructions you
 There are three image models you can choose from:&#x20;
 
 * SDXL Turbo
-* dalle-3
-* Stable Diffusion 3
+* FLUX.1
+* DALL-E 3
 
 Learn more about their differences and capabilities on [this page.](image-models.md)
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2024-06-13 at 1.14.14 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/clipboard_image (4).png" alt=""><figcaption></figcaption></figure>
 
 ## Advanced Generation
 
