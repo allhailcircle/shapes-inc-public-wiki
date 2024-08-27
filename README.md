@@ -34,7 +34,7 @@ Shapes, Inc. is an applied AI company dedicated to making Shapes. Shapes are AI 
 
 ### It's Free&#x20;
 
-We're in the testing phase of Shapes so they are completely **free (including all Shape tooling).** All we ask for is for you to share Shapes with your friends and give us feedback in our [<mark style="color:purple;">Shape HQ</mark>](https://discord.gg/circlelabs).
+We're in the testing phase of Shapes so they are completely **free (including all Shape tooling).** All we ask for is for you to share Shapes with your friends and give us feedback in our [<mark style="color:purple;">Shape HQ</mark>](https://discord.gg/shapes).
 
 {% hint style="info" %}
 You can sell Shapes to your friends and servers. That's not against our rules :wink:
