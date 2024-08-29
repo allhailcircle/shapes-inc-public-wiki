@@ -8,7 +8,7 @@ description: >-
 
 ***
 
-Shapes are available for adoption when they have been in zero servers for a few months. This also means no one can currently DM them.&#x20;
+Shapes are available for adoption when they have been in zero servers for 2 days. This also means no one can currently DM them.&#x20;
 
 There are two ways you can adopt a shape. You can either DM Shapesy or you can use the /create command on any shape. This guide shows how to do both. &#x20;
 
