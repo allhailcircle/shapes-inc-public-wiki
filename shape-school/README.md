@@ -9,3 +9,15 @@ description: Shape Examples
 {% hint style="info" %}
 Make sure to copy them and try them out!
 {% endhint %}
+
+{% content-ref url="speechless-shape.md" %}
+[speechless-shape.md](speechless-shape.md)
+{% endcontent-ref %}
+
+{% content-ref url="non-english-shape.md" %}
+[non-english-shape.md](non-english-shape.md)
+{% endcontent-ref %}
+
+{% content-ref url="multiple-character-shape.md" %}
+[multiple-character-shape.md](multiple-character-shape.md)
+{% endcontent-ref %}

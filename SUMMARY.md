@@ -66,6 +66,7 @@
 * [🏫 Shape School](shape-school/README.md)
   * [Speechless Shape](shape-school/speechless-shape.md)
   * [Non-English Shape](shape-school/non-english-shape.md)
+  * [Multiple Character Shape](shape-school/multiple-character-shape.md)
 
 ## Links
 
