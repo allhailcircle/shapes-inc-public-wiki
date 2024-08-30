@@ -61,6 +61,12 @@
 * [How to Make Your Server Active](guides/how-to-make-your-server-active.md)
 * [How to Make a High Quality Shape](guides/how-to-make-a-high-quality-shape.md)
 
+***
+
+* [🏫 Shape School](shape-school/README.md)
+  * [Speechless Shape](shape-school/speechless-shape.md)
+  * [Non-English Shape](shape-school/non-english-shape.md)
+
 ## Links
 
 * [Shapes.Inc Dashboard](https://shapes.inc/home)
