@@ -67,6 +67,7 @@
   * [Speechless Shape](shape-school/speechless-shape.md)
   * [Non-English Shape](shape-school/non-english-shape.md)
   * [Multiple Character Shape](shape-school/multiple-character-shape.md)
+  * [Server Utility Shape](shape-school/server-utility-shape.md)
 
 ## Links
 
