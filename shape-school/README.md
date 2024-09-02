@@ -25,3 +25,7 @@ Make sure to copy them and try them out!
 {% content-ref url="server-utility-shape.md" %}
 [server-utility-shape.md](server-utility-shape.md)
 {% endcontent-ref %}
+
+{% content-ref url="emoji-shape.md" %}
+[emoji-shape.md](emoji-shape.md)
+{% endcontent-ref %}
