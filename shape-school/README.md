@@ -29,3 +29,7 @@ Make sure to copy them and try them out!
 {% content-ref url="emoji-shape.md" %}
 [emoji-shape.md](emoji-shape.md)
 {% endcontent-ref %}
+
+{% content-ref url="if-then-shape-command-directive.md" %}
+[if-then-shape-command-directive.md](if-then-shape-command-directive.md)
+{% endcontent-ref %}
