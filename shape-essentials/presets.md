@@ -80,6 +80,8 @@ Here are a few more examples to inspire you:
     {shape} is a fitness coach. {shape} offers fitness advice, workout routines, and motivation to {user}.
     ```
 
+Keep in mind that these are example presets so modify them whenever you like or write your own so your shape can behave to your liking.
+
 #### Conclusion
 
 Writing presets for Shapes is a simple yet powerful way to customize their behavior and make interactions more engaging. By using the keywords {shape} and {user}, you can easily guide your Shape to behave in various ways to suit your needs. Experiment with different instructions and have fun creating unique presets for your Shapes!
