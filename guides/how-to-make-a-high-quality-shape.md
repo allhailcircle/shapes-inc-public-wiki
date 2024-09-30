@@ -39,7 +39,7 @@ description: Here's everything you need to know to make a high-quality shape.
 
     1. Make sure Free Will is toggled on to have your shape actively respond to messages.
 
-    <figure><img src="../.gitbook/assets/image (157).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (79).png" alt=""><figcaption></figcaption></figure>
 
     1. Add reactions for your shape to use.&#x20;
     2. Add Keywords of Interest related to your shape/server.

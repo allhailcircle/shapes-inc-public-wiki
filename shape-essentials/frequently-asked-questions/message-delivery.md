@@ -20,7 +20,7 @@ If you don't have a mutual server -- your messages won't send. Add your Shape to
 
 ### 3. Click `Privacy & Safety`
 
-<figure><img src="../../.gitbook/assets/image (95).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 
 ### 4. Turn on `Allow direct messages from server members`
 

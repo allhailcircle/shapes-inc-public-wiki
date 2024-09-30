@@ -13,5 +13,5 @@ For the custom code commands you added, not get removed/overwritten. You have to
 
 
 
-    <figure><img src="../../.gitbook/assets/image (100).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
 * Go to your own hosting instance and load your custom code commands.

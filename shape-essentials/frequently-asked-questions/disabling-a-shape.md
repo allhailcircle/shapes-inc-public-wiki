@@ -8,7 +8,7 @@ To do so, head over to [discord.gg/shapes](https://discord.com/invite/shapes)
 
 Go to the [#support-tickets](https://discord.com/channels/781212328749301790/1121072462294155284) channel and click I need support!
 
-<figure><img src="../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
 Click on the ticket you opened.&#x20;
 
@@ -16,4 +16,4 @@ Click on the ticket you opened.&#x20;
 
 Please submit the [shapes.inc](https://shapes.inc/) link of your shape and explain that you want to disable the shape. Someone from the Shapes Inc. team will reach out to help you!
 
-<figure><img src="../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>

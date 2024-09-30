@@ -12,7 +12,7 @@ If your shape is talking in channels where it shouldn't, it's acting on its [fre
 
 * &#x20;Use your shape's `/freewill` command and toggle it `off`.
 
-<figure><img src="../../.gitbook/assets/image (168).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (90).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 You are required to have at least one shape with active freewill in your server.
