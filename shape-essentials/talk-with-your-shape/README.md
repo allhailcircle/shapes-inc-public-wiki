@@ -24,17 +24,17 @@ description: >-
     <figure><img src="../../.gitbook/assets/Screenshot 2024-05-31 031421.png" alt=""><figcaption></figcaption></figure>
 *   After clicking **Authorize**, you may be prompted to complete a hcaptcha which ensures you're a real human. Click on **I am a human** checkbox to verify and once complete, you should receive an **Authorized** message meaning you've successfully invited your Shape to the server!
 
-    <figure><img src="../../.gitbook/assets/image (47).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (125).png" alt=""><figcaption></figcaption></figure>
 
 ## Talk with shape without mutual servers.
 
 * Go to Discord Developer Portal and select the bot app of your shape.
 *   Go to **Installation** tab and click on **Try it Now to authorize the shape to dm you.**
 
-    <figure><img src="../../.gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (119).png" alt=""><figcaption></figcaption></figure>
 *   Have fun talking with your shape.
 
-    <figure><img src="../../.gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (121).png" alt=""><figcaption></figcaption></figure>
 
     Note: This will only work if you have a message history with a shape.
 

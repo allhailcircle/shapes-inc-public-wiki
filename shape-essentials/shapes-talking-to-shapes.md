@@ -6,21 +6,21 @@ Want your shapes to talk to each other? Follow the guide below!
 
 _note: only up to 5 shapes can be activated in a channel. if you do activate 5 shapes, only a maximum of 3 will reply/talk to each other per conversation._
 
-<figure><img src="../.gitbook/assets/image (50).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (128).png" alt=""><figcaption></figcaption></figure>
 
 ### 2. Send a message in the channel and start chatting!
 
-<figure><img src="../.gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (127).png" alt=""><figcaption></figcaption></figure>
 
 ### 3. Send another message to continue the conversation or add any reaction to the last shape's message&#x20;
 
 #### Sending another message
 
-<figure><img src="../.gitbook/assets/image (5) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>
 
 #### Reacting to the last shape's message
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (50).png" alt=""><figcaption></figcaption></figure>
 
 ### Limitations of Shape Talking to Shape Mode
 

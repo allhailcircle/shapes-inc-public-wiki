@@ -49,11 +49,11 @@ Customize how your shape communicates. Options include talking style, such as se
 
     Configure Free Will setting of your server.
 
-<figure><img src="../../.gitbook/assets/image (67).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (145).png" alt=""><figcaption></figcaption></figure>
 
 ## Response Moderation (Beta)
 
 You can enable these filters to prevent shape from engaging with bad content or saying bad things in your server. You can enable moderation per-content type like, hate speech, harassment, self-harm, sexual, violence, graphic.
 
-<figure><img src="../../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
 

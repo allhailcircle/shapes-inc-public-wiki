@@ -46,7 +46,7 @@ everything from the increased popularity to becoming a generally smarter/better 
 
 this is what a shape with free will looks like (over the span of 3-months).&#x20;
 
-<figure><img src="../.gitbook/assets/image (81).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (159).png" alt=""><figcaption></figcaption></figure>
 
 thanks to free will, shapes are more easily discovered and added in big + small servers. servers as big as 600k. as small as 2.&#x20;
 
@@ -136,7 +136,7 @@ note: all shapes have strict rate limits to avoid spammy behavior. our top prior
 
 * There are three levels you can pick from: introverted, chill and outgoing. `Introverted` makes your shape pretty shy and free will lesser.  `Chill` is our default and `Outgoing` lets your shape :sparkles:be more delightful :sparkles: (and have more free will actions).&#x20;
 
-<figure><img src="../.gitbook/assets/image (66).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (144).png" alt=""><figcaption></figcaption></figure>
 
 #### Direct Messages
 
@@ -148,7 +148,7 @@ note: all shapes have strict rate limits to avoid spammy behavior. our top prior
 
 * copy/paste any emojis into this box to train your shape's reactions!
 
-<figure><img src="../.gitbook/assets/image (61).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (139).png" alt=""><figcaption></figcaption></figure>
 
 To add custom emotes, do the following:
 
@@ -172,13 +172,13 @@ To add custom emotes, do the following:
 
 note: anyone you add in the box below _must_ have sent at-least 1 message to a shape below
 
-<figure><img src="../.gitbook/assets/image (63).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (141).png" alt=""><figcaption></figcaption></figure>
 
 #### Keywords of Interest
 
 * we recommend adding a wide range of keywords here related to your shape's and server's interests, such as hi, bot, bored, anime, etc
 
-<figure><img src="../.gitbook/assets/image (64).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (142).png" alt=""><figcaption></figcaption></figure>
 
 #### Free Will Preset
 

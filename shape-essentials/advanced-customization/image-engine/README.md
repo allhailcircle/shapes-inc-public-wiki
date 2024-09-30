@@ -46,6 +46,6 @@ bad anatomy.
 
 Note: dalle-3 has two styles for image generation. "Natural" is used for more realistic images and "vivid is used to hyper-real images.
 
-<figure><img src="../../../.gitbook/assets/image (75).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (153).png" alt=""><figcaption></figcaption></figure>
 
 Remember to save your changes after configuring each section to ensure your shape reflects your desired settings.&#x20;
