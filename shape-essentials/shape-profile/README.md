@@ -10,15 +10,23 @@ description: Personalize your Shape's Discord account.
 
 * [ ] Upload an image that showcases your shape's essence. This image will be visible to everyone interacting with your shape.&#x20;
 
+<figure><img src="../../.gitbook/assets/image (93).png" alt="" width="104"><figcaption><p>shapes.inc</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image (97).png" alt="" width="158"><figcaption><p>Discord</p></figcaption></figure>
+
 _Note: you can edit this photo anytime!_&#x20;
 
 ### 2. Banner
 
 * [ ] Upload another image that showcases your shape's essence on its profile. This image will be visible to everyone when they inspect the profile of your shape.&#x20;
 
+<figure><img src="../../.gitbook/assets/image (94).png" alt="" width="380"><figcaption></figcaption></figure>
+
 ### 3. **Discord Name**
 
 * [ ] Your shape's display name on Discord
+
+<figure><img src="../../.gitbook/assets/image (95).png" alt="" width="400"><figcaption></figcaption></figure>
 
 ### 4. Nickname
 
