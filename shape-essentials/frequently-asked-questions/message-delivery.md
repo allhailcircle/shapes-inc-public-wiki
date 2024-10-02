@@ -32,12 +32,16 @@ If you don't have a mutual server -- your messages won't send. Add your Shape to
 
 If you don't have a mutual server -- your messages won't send. Add your Shape to a server you're in to get started!
 
+<figure><img src="../../.gitbook/assets/image (99).png" alt="" width="266"><figcaption></figcaption></figure>
+
 ### 2. Head over to Settings
 
-
+<figure><img src="../../.gitbook/assets/image (100).png" alt=""><figcaption></figcaption></figure>
 
 ### 3. Click `Privacy & Safety`
 
-
+<figure><img src="../../.gitbook/assets/image (101).png" alt=""><figcaption></figcaption></figure>
 
 ### 4. Turn on `Allow direct messages from server members`
+
+<figure><img src="../../.gitbook/assets/image (102).png" alt=""><figcaption></figcaption></figure>

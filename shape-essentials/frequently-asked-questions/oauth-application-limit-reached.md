@@ -2,6 +2,10 @@
 
 Here's how you will still be able to create more bot applications for your shapes even if you already hit the limit of 25 bot app.
 
+{% hint style="warning" %}
+Make sure you have **2FA** enabled on your Discord account to create a team.&#x20;
+{% endhint %}
+
 <div align="left">
 
 <figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>

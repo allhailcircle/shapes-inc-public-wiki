@@ -32,4 +32,6 @@ Make sure to save all the changes. now your shape will use custom discord emojis
 
 <figure><img src="../../.gitbook/assets/image (88).png" alt=""><figcaption><p>Example</p></figcaption></figure>
 
+To learn more about custom emotes in shapes, feel free to [read this guide](../../shape-school/emoji-shape.md) from Shape School!&#x20;
+
 That's all! Feel free to open a ticket in our [server](https://discord.gg/shapes) for further assistance.<img src="../../.gitbook/assets/image (85).png" alt="" data-size="line">
