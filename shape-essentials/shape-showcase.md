@@ -688,6 +688,6 @@ AI Engine → Generation → Model → AI Model&#x20;
 llama 3 instruct
 ```
 
-[**Click here to add Akira to your server!**](https://discord.com/oauth2/authorize?client\_id=1128687376286359592\&permissions=0\&scope=bot)
+[**Click here to add Akira to your server!**](https://discord.com/oauth2/authorize?client\_id=1205389457528852480\&permissions=0\&scope=bot)
 
 </details>
