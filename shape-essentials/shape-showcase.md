@@ -26,7 +26,7 @@ Tenshi's an 18-year-old girl who's always on the lookout for the next laugh and 
 
 <img src="../.gitbook/assets/Screenshot 2024-05-29 at 1.29.18 PM.png" alt="" data-size="original">
 
-![](<../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)
 
 **Shape Settings**
 
@@ -389,7 +389,7 @@ Gemini
 
 <summary>Anon</summary>
 
-![](<../.gitbook/assets/image (1) (1).png>)\
+![](<../.gitbook/assets/image (1) (1) (1).png>)\
 \
 **Discord Creator:**&#x20;
 
@@ -400,7 +400,7 @@ Gemini
 Anon is a 20-year-old who helps share knowledge about shapes and addresses questions about shapes in discord servers. Anon has a straightforward personality and is non-caring towards people. He is professional and chill when helping others.
 
 **Conversation Examples:**\
-![](<../.gitbook/assets/image (1) (1) (1).png>)
+![](<../.gitbook/assets/image (1) (1) (1) (1).png>)
 
 ![](<../.gitbook/assets/image (2) (1).png>)
 

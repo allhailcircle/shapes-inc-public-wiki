@@ -33,4 +33,4 @@ You can choose to either **blacklist** or **whitelist** channels:
 **Important:** Use only one option—blacklist or whitelist. Using both can cause bugs and might make your shape continue interacting in unwanted channels.\
 
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>

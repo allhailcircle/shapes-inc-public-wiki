@@ -46,14 +46,18 @@ Customize how your shape communicates. Options include talking style, such as se
 
 * **Blacklist Channels**\
   Specify channels where your shape will not be able to interact.
-*   Whitelist Channels
+*   **Whitelist Channels**
 
     Specify the only channels where your shape will be able to interact.
-*   Server Free Will
+*   **Server Free Will**
 
     Configure Free Will setting of your server.
 
-<figure><img src="../../.gitbook/assets/image (67).png" alt=""><figcaption></figcaption></figure>
+{% hint style="danger" %}
+**Use only one option—blacklist or whitelist.** Using both can cause bugs and might make your shape continue interacting in unwanted channels.
+{% endhint %}
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ## Response Moderation (Beta)
 
