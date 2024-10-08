@@ -14,11 +14,21 @@ If your shape has a dedicated wiki page or webpage with comprehensive details, d
 Uploading a link is a one-time knowledge update. So, if the website changes, the knowledge won’t update. If you want the knowledge to update, you will have to re-upload the website link (or type in the new information).&#x20;
 {% endhint %}
 
+{% hint style="warning" %}
+You cannot add **a subpage link after you add the main link** due to limitations.
+
+_**For example:** If you add_ [_https://domain.link_](https://domain.link/home)[_/main_](knowledge.md#links)_, then you can't add_ [_https://domain.link/_](https://domain.link/home)[_main/sub_](knowledge.md#links)_._
+{% endhint %}
+
 <figure><img src="../../.gitbook/assets/Screenshot 2023-11-30 104924.png" alt=""><figcaption></figcaption></figure>
 
 ## General
 
 This is your canvas for unlimited general information about your shape. From its origin story to its quirks, share everything that {user} (the person wanting to talk to your shape) might find interesting.
+
+{% hint style="warning" %}
+Please use **English** for any stored knowledge, as information inputted in other languages won't be recalled nor remembered.
+{% endhint %}
 
 <figure><img src="../../.gitbook/assets/Screenshot 2023-11-30 104936.png" alt=""><figcaption></figcaption></figure>
 
