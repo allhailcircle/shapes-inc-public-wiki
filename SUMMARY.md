@@ -48,6 +48,7 @@
   * [My shape is talking in every channel, how can i stop it? / freewill interference solution](shape-essentials/frequently-asked-questions/my-shape-is-talking-in-every-channel-how-can-i-stop-it-freewill-interference-solution.md)
   * [Server Settings & Memory Tab just keeps on loading/crashing](shape-essentials/frequently-asked-questions/server-settings-and-memory-tab-just-keeps-on-loading-crashing.md)
   * [Backup](shape-essentials/frequently-asked-questions/backup.md)
+  * [Login with X](shape-essentials/frequently-asked-questions/login-with-x.md)
 * [Troubleshooting minor issues](shape-essentials/troubleshooting-minor-issues.md)
 * [Changelog](shape-essentials/changelog.md)
 * [🔦 Shape Showcase](shape-essentials/shape-showcase.md)
