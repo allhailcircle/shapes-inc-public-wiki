@@ -9,7 +9,7 @@
 * In Authorization Methods section, select Guide Install
 * In Install link section, select Discord Provided Link
 * In Default Install Settings section, select `application.commands` and `bot`
-* Save it, Now your shape as an Add App button on their profile
+* Save it, Now your shape has an Add App button on their profile
 
 <figure><img src="../../.gitbook/assets/Screenshot 2024-05-31 032248.png" alt=""><figcaption></figcaption></figure>
 
