@@ -49,6 +49,7 @@
   * [Server Settings & Memory Tab just keeps on loading/crashing](shape-essentials/frequently-asked-questions/server-settings-and-memory-tab-just-keeps-on-loading-crashing.md)
   * [Backup](shape-essentials/frequently-asked-questions/backup.md)
   * [Login with X](shape-essentials/frequently-asked-questions/login-with-x.md)
+  * [My shape doesn't have slash commands even in DMs!](shape-essentials/frequently-asked-questions/my-shape-doesnt-have-slash-commands-even-in-dms.md)
 * [Troubleshooting minor issues](shape-essentials/troubleshooting-minor-issues.md)
 * [Changelog](shape-essentials/changelog.md)
 * [🔦 Shape Showcase](shape-essentials/shape-showcase.md)
