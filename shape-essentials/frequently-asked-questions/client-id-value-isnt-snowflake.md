@@ -26,4 +26,4 @@ If you're seeing the "client id isn't snowflake" error due to a problem with the
     ```
 2. **Invite Shape:** After correcting the invite link, click on it to invite Shape to your server.
 
-This adjustment should resolve the "client id isn't snowflake" error. If you have any more questions, feel free to open a ticket in our support server.
+This adjustment should resolve the "client id isn't snowflake" error. If you have any more questions, feel free to open a post in [#shape-help channel](https://discord.com/channels/781212328749301790/1185774428546682881) on our [discord server](https://discord.com/invite/shapes).

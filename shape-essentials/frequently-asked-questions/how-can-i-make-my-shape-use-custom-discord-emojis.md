@@ -34,4 +34,4 @@ Make sure to save all the changes. now your shape will use custom discord emojis
 
 To learn more about custom emotes in shapes, feel free to [read this guide](../../shape-school/emoji-shape.md) from Shape School!&#x20;
 
-That's all! Feel free to open a ticket in our [server](https://discord.gg/shapes) for further assistance.<img src="../../.gitbook/assets/image (85).png" alt="" data-size="line">
+That's all! Feel free to open a post in [#shape-help channel](https://discord.com/channels/781212328749301790/1185774428546682881) in our [server](https://discord.gg/shapes) for further assistance.<img src="../../.gitbook/assets/image (85).png" alt="" data-size="line">

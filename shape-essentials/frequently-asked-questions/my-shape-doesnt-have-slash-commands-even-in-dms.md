@@ -30,9 +30,7 @@ Then go to [**Discord's Developer Portal**](https://discord.com/developers/appli
 
 ## Solution 3
 
-If the two solutions provided don't work, then join our [**official Discord server**](https://discord.gg/shapes) and open a support ticket in the **#support-tickets channel**. From there, we will help you restart your shape and your shape's slash commands should come back.
-
-<figure><img src="../../.gitbook/assets/image (117).png" alt=""><figcaption></figcaption></figure>
+If the two solutions provided don't work, then join our [**official Discord server**](https://discord.gg/shapes) and make a post in **#shape-help channel**. From there, ping a shapes.inc staff. We will help you restart your shape and your shape's slash commands should come back.
 
 ## How do I prevent this from happening?
 
