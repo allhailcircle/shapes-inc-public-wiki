@@ -130,6 +130,10 @@ Adjust the privacy settings to tailor how private your shape keeps conversations
 * **Low = Private:** Memories from DMs and servers are isolated from each other.
 * **Medium = Shared:** Memory can be pulled from the same server and from DMs.
 
+{% hint style="warning" %}
+Decreasing **Frequency** between 1000-2000 breaks the shape.
+{% endhint %}
+
 <figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Knowledge
